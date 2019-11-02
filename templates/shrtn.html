@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block content %}
+<form method="POST" action="/shrtn">
+    <input type="url" name="link" placeholder="URL to shorten" />
+    <input type="submit" />
+</form>
+{% if code %}
+<code>https://hackai.xyz/shrtn/{{ code }}</code>
+{% endif %}
+{% endblock %}
