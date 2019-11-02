@@ -2,6 +2,8 @@ import pickle
 
 data = pickle.load(open("data.pickle", "rb"))
 
+print(len(data))
+
 titles = [element[0] for element in data]
 taglines = [element[1] for element in data]
 
