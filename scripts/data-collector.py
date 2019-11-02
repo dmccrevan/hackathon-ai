@@ -9,7 +9,6 @@ LIMIT = 5511
 def main():
     data = []
     for i in range(1, LIMIT+1):
-        print(f'page: {i} of {LIMIT}')
         resp = requests.get(LINK_TO_SCRAPE+str(i))
         content = resp.content
         content = content.decode('utf-8')
@@ -17,9 +16,6 @@ def main():
         dic = dic['software']
         for item in dic:
             data.append((item['name'], item['tagline']))
-
-    # print()
-    # print(data)
 
     # first two elements on page are bad 
     del data[0]
