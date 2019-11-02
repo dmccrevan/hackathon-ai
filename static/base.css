@@ -16,7 +16,7 @@ header {
     padding: 1rem;
 }
 
-article {
+article, form {
     padding: 2rem;
     display: flex;
     flex-flow: column nowrap;
@@ -45,4 +45,11 @@ a.idea {
     border: 0;
     box-shadow: 0;
     display: inline;
+}
+
+input, textarea {
+    background-color: #404040;
+    color: inherit;
+    border: none;
+    font-size: inherit;
 }

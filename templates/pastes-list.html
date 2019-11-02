@@ -1,0 +1,8 @@
+{% extends "base.html" %}
+
+{% block content %}
+<a class="idea" href="/new-paste">New Pastebin</a>
+{% for paste in pastes %}
+<a href="/paste/{{ paste }}">{{ paste }}</a>
+{% endfor %}
+{% endblock %}
