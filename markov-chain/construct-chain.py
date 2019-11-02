@@ -1,3 +1,0 @@
-
-
-print('constructing markov chain...')
