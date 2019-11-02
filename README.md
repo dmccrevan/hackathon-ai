@@ -5,6 +5,6 @@ Generates ideas for Hackathons using Machine Learning
 ## Created By
 
 - Dan McCrevan
-- Josh Lebidinsky
+- Josh Lebedinsky
 - Mike
 - Steven vanZyl
