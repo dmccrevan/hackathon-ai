@@ -2,13 +2,15 @@ import urllib.request
 from bs4 import BeautifulSoup
 import pickle
 import threading
+from concurrent.futures import ThreadPoolExecutor
 
 url = 'https://devpost.com/software/popular?page='
-max_page = 5511
+max_page = 200
 data = []
 
 
 def worker(page_num):
+    print(f'looking at page {page_num} of {max_page}')
     with urllib.request.urlopen(url + str(page_num)) as response:
         html = response.read()
 
@@ -20,10 +22,8 @@ def worker(page_num):
         tagline = div.findAll("p", {"class": "small tagline"})[0].contents[0].strip()
         data.append((title, tagline))
 
-for page_num in range(max_page):
-    t = threading.Thread(target=worker, args=(page_num,))
-    print(f'looking at page {page_num} of {max_page}')
-    t.start()
+with ThreadPoolExecutor(max_workers=100) as executor:
+    executor.map(worker, range(max_page))
 
 pickle.dump(data, open('data.pickle', 'wb'))
 
