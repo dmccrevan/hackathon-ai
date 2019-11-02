@@ -1,12 +1,15 @@
 from numpy.random import choice
 import pickle
+import os
 
 class Generator:
 
   def __init__(self):
     self.BEGIN = '__BEGIN__'
     self.END = '__END__'
-    self.model = pickle.load(open("model.pickle", "rb"))
+    filepath = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'model.pickle')
+    file = open(filepath, "rb")
+    self.model = pickle.load(file)
 
 
   # TODO: try to get consistent lengths - steer away from titles ending super quickly, steer towards line ends when we get too long

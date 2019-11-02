@@ -12,7 +12,7 @@ Generates ideas for Hackathons using Machine Learning
 ## Using the generator
 
 ```
->>> import generate
+>>> import scripts/generate
 >>> mygen = generate.Generator()
 >>> mygen.generate_tagline()
 ```
