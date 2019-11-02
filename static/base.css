@@ -16,7 +16,7 @@ header {
     padding: 1rem;
 }
 
-article {
+article{
     padding: 2rem;
     display: flex;
     flex-flow: column nowrap;
@@ -31,11 +31,6 @@ article :not(:last-child) {
 a {
     color: inherit;
     text-decoration: none;
-}
-
-input {
-	color: inherit;
-	text-decoration: none;
 }
 
 a.idea {
@@ -107,4 +102,19 @@ input[type="submit"] {
   padding: 1rem;
   font-size: 18pt;
   background-color: #505090;
+}
+
+#share-buttons img {
+    width: 35px;
+    padding: 5px;
+    border: 0;
+    box-shadow: 0;
+    display: inline;
+}
+
+input, textarea {
+    background-color: #404040;
+    color: inherit;
+    border: none;
+    font-size: inherit;
 }

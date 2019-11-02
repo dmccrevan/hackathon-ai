@@ -8,3 +8,11 @@ Generates ideas for Hackathons using Machine Learning
 - Josh Lebedinsky
 - Mike
 - Steven vanZyl
+
+## Using the generator
+
+```
+>>> import scripts/generate
+>>> mygen = generate.Generator()
+>>> mygen.generate_tagline()
+```
