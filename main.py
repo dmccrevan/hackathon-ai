@@ -7,4 +7,4 @@ def index():
 
 @app.route('/idea')
 def idea():
-    return render_template('idea.html')
+    return render_template('idea.html', description="A project description")
