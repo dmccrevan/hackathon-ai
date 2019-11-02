@@ -5,7 +5,7 @@ import threading
 from concurrent.futures import ThreadPoolExecutor
 
 url = 'https://devpost.com/software/popular?page='
-max_page = 200
+max_page = 2001
 data = []
 
 
