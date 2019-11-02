@@ -30,7 +30,7 @@ article :not(:last-child) {
 
 a {
     color: inherit;
-    text-decoration: none;}
+    text-decoration: none;
 }
 
 a.idea {
