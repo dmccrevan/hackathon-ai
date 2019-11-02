@@ -15,8 +15,8 @@ print(len(taglines))
 
 # taglines = taglines[:30]
 
-BEGIN = 1
-END = 2
+BEGIN = '__BEGIN__'
+END = '__END__'
 
 transitions = {}
 transitions[BEGIN] = {}
@@ -50,7 +50,7 @@ for key in transitions:
   model[key] = {}
   for target in transitions[key]:
     model[key][target] = transitions[key][target] / totals[key]
-    
+
 # print(model)
 
 pickle.dump(model, open('model.pickle', 'wb'))

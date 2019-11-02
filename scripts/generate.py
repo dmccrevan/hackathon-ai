@@ -1,8 +1,8 @@
 from numpy.random import choice
 import pickle
 
-BEGIN = 1
-END = 2
+BEGIN = '__BEGIN__'
+END = '__END__'
 
 model = pickle.load(open("model.pickle", "rb"))
 
@@ -29,11 +29,12 @@ def generate_chain(model):
   sentence = ''
   while draw != END and count < 30:
     draw = find_next_word(model, draw)
-    print(f'draw: {draw}')
-    print(type(draw))
+    # print(f'draw: {draw}')
+    # print(type(draw))
     sentence += draw + ' '
     count += 1
 
-  print(sentence)
+  # print(sentence)
+  return(sentence)
 
 generate_chain(model)
