@@ -1,40 +1,47 @@
 from numpy.random import choice
 import pickle
 
-BEGIN = '__BEGIN__'
-END = '__END__'
+class Generator:
 
-model = pickle.load(open("model.pickle", "rb"))
+  def __init__(self):
+    self.BEGIN = '__BEGIN__'
+    self.END = '__END__'
+    self.model = pickle.load(open("model.pickle", "rb"))
 
-# TODO: try to get consistent lengths - steer away from titles ending super quickly, steer towards line ends when we get too long
-# should cut off titles that are too long at some point
 
-def find_next_word(model, prev_word):
-  if not prev_word in model or len(model[prev_word]) < 1:
-    return END
+  # TODO: try to get consistent lengths - steer away from titles ending super quickly, steer towards line ends when we get too long
+  # should cut off titles that are too long at some point
 
-  targets = []
-  probabilities = []
+  def find_next_word(self, prev_word):
+    if not prev_word in self.model or len(self.model[prev_word]) < 1:
+      return END
 
-  for target in model[prev_word]:
-    targets.append(target)
-    probabilities.append(model[prev_word][target])
+    targets = []
+    probabilities = []
 
-  draw = choice(targets, 1, p=probabilities)[0]
-  return draw
+    for target in self.model[prev_word]:
+      targets.append(target)
+      probabilities.append(self.model[prev_word][target])
 
-def generate_chain(model):
-  draw = BEGIN
-  count = 0
-  sentence = ''
-  while draw != END and count < 30:
-    draw = find_next_word(model, draw)
-    # print(f'draw: {draw}')
-    # print(type(draw))
-    sentence += draw + ' '
-    count += 1
+    draw = choice(targets, 1, p=probabilities)[0]
+    return draw
 
-  # print(sentence)
-  return(sentence)
+  def generate_chain(self):
+    draw = self.BEGIN
+    count = 0
+    sentence = ''
 
-generate_chain(model)
+    while count < 30:
+      draw = self.find_next_word(draw)
+      if draw == self.END: break
+      sentence += draw + ' '
+      count += 1
+
+    # print(sentence)
+    return sentence
+
+  def generate_tagline(self):
+    return self.generate_chain()
+
+
+# generate_chain(model)
