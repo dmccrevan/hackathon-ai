@@ -1,0 +1,2483 @@
+looking at page 0 of 55
+TRAVIS-Traffic Realtime Assistant Via Internet Service
+Travis is Traffic & Road safety assistance app, that assists pedestrians, drivers & passengers in realtime.
+
+Class Diagrams for Bitbucket
+Making class diagrams is a pain, so we automated it. Let Lucidchart do the hard work.
+
+ParkKing
+ParkKing helps foster culture of parking discipline among citizens and manage their bookings & violations online.
+
+Lucidchart OnPrem for Confluence Server
+Others are going cloud—we're taking our top web-based add-on to OnPrem with cutting edge functionality in Confluence
+
+Cronforce Time Tracking for Jira
+Save valuable developer time and capture time directly from Jira. Now with worklogs and smart projects.
+
+CoTaxi
+Changeant nos habitudes de déplacement pour un avenir meilleur / Changing our taxi trip habits for a better future.
+
+Maasto-101
+Off-road driver assist BOT thats helps drivers to identify potholes on street, Especially on terrain regions
+
+Breast cancer detection
+Basic model to detect breast cancer.
+
+Indra
+Indra, your personal assistant is here to help you get around safer and smoother in Indore
+
+Stock price movement
+Prediction of the probability of the movement of the stock
+
+Spark App
+A Real-Time Chat App
+
+StepShot Image Editor / Annotator for Confluence
+Image Editing Made Super Easy
+
+ChedliTaxi
+ChedliTaxi is the “snap-cab” application that lets you instantly catch a taxi without having to wave your hand !
+
+KnowFish
+What You Need to Know in the Palm of Your Hand
+
+Curie Wireless Sensor Network
+Intel Curie based WSN System for Scalable Distributed Control System in Satellites and Launch Vehicles
+
+bl
+bl
+
+DocSynk
+DocSynk. Your Healthcare. Synchronized.
+
+SoMoClo
+Connecting Social, Mobile and Cloud
+
+FiB
+Lets stop living a lie
+
+ThermalImagingFlir
+A Thermal Imaging app that helps detecting people and animals at Forest meant for forest
+
+Call Serena Button
+Call Serena with press of a button
+
+TrafFeed
+Your personal traffic assistant helping you hop out the hurdles over the road guided by your own police department.
+
+Hexa Survivor
+Hexa Survivor is a minimalistic yet highly addictive game experience allowing you to earn Kin crypto! Simply tap left or right to avoid touching the hexagon border and perform successful escapes!
+
+Cycle Control
+Cycle Control allows the user to control the Lifecycle of release or program using stages, milestones and checklists
+
+looking at page 1 of 55
+TRAVIS-Traffic Realtime Assistant Via Internet Service
+Travis is Traffic & Road safety assistance app, that assists pedestrians, drivers & passengers in realtime.
+
+Class Diagrams for Bitbucket
+Making class diagrams is a pain, so we automated it. Let Lucidchart do the hard work.
+
+ParkKing
+ParkKing helps foster culture of parking discipline among citizens and manage their bookings & violations online.
+
+Lucidchart OnPrem for Confluence Server
+Others are going cloud—we're taking our top web-based add-on to OnPrem with cutting edge functionality in Confluence
+
+Cronforce Time Tracking for Jira
+Save valuable developer time and capture time directly from Jira. Now with worklogs and smart projects.
+
+CoTaxi
+Changeant nos habitudes de déplacement pour un avenir meilleur / Changing our taxi trip habits for a better future.
+
+Maasto-101
+Off-road driver assist BOT thats helps drivers to identify potholes on street, Especially on terrain regions
+
+Breast cancer detection
+Basic model to detect breast cancer.
+
+Indra
+Indra, your personal assistant is here to help you get around safer and smoother in Indore
+
+Stock price movement
+Prediction of the probability of the movement of the stock
+
+Spark App
+A Real-Time Chat App
+
+StepShot Image Editor / Annotator for Confluence
+Image Editing Made Super Easy
+
+ChedliTaxi
+ChedliTaxi is the “snap-cab” application that lets you instantly catch a taxi without having to wave your hand !
+
+KnowFish
+What You Need to Know in the Palm of Your Hand
+
+Curie Wireless Sensor Network
+Intel Curie based WSN System for Scalable Distributed Control System in Satellites and Launch Vehicles
+
+bl
+bl
+
+DocSynk
+DocSynk. Your Healthcare. Synchronized.
+
+SoMoClo
+Connecting Social, Mobile and Cloud
+
+FiB
+Lets stop living a lie
+
+ThermalImagingFlir
+A Thermal Imaging app that helps detecting people and animals at Forest meant for forest
+
+Call Serena Button
+Call Serena with press of a button
+
+TrafFeed
+Your personal traffic assistant helping you hop out the hurdles over the road guided by your own police department.
+
+Hexa Survivor
+Hexa Survivor is a minimalistic yet highly addictive game experience allowing you to earn Kin crypto! Simply tap left or right to avoid touching the hexagon border and perform successful escapes!
+
+Cycle Control
+Cycle Control allows the user to control the Lifecycle of release or program using stages, milestones and checklists
+
+looking at page 2 of 55
+Traffico
+Traffico - Educate people by generating voice alert by using Artificial Intelligences if they breaking traffic rules
+
+Email Notifications Digest
+Group JIRA email notifications and send them as a digest at a scheduled date/time
+
+Drive Safe – It’s in your Hands!
+An All-in-One App that can help you to identify shortest path using Public Transport, nearest Parking and Safety Tips
+
+SQL Reporter for JIRA
+Generate reports using SQL queries
+
+Open Mind
+A Chrome extension to combat fake news and expose readers to differing political viewpoints.
+
+Make & Get Jobs
+This app lets you find jobs around you using location based services.
+
+Network management console panel
+It is a web app that runs on any web browser and allows you to handle your Linux based DNS, Web and Mail server.
+
+Konami code
+↑ ↑ ↓ ↓ ← → ← → B A ⇧ ↩
+
+4G Traffic Transformer
+Hsuehshan Tunnel Traffic Transformer-The Pioneers of 4G Technology and Big Data
+
+Taxi Share
+Efficiency taxi sharing based on geoposition, empty seats, riders networking data and artificial intelligence (AI)
+
+Machine learning models
+The project contains models that can be added to the UI Path Power Up and can be used to automate processes for apps
+
+HYFY Screen Recorder
+Record your screen and voice. Share instantly to JIRA and HipChat.
+
+Imprompt.io
+Remote workers often miss out on the “watercooler” conversations that drive important decisions.
+
+IssueTypeChangeReport
+Sort a report according to issue type changes in all issues inside project.
+
+IRIS
+Comprehensive Indoor tracking, control and monitoring solution
+
+My Indore Traffic App
+Making commuters life easy!
+
+ARTIK Smart Water Meter
+“Water & Things Connected” ‘Save water, the smart way!’
+
+StepShot for Confluence
+Create IT documentation in minutes, not hours!
+
+HeyTaxi
+Artificial Intelligence who help you share a taxi ride
+
+Downloading Attachment from Email
+This snippet can download the attachments from emails
+
+PredictiveModeling on CartoDB data
+predictive algorithm implementation on the datasets.
+
+Metropia: The Rewards of a Faster Hsuehshan Tunnel
+Metropia reduces Hsuehshan Tunnel traffic by rewarding drivers for choosing smarter times, routes, and destinations.
+
+Elderly Vibrations
+There are a large amount of solutions for elderly and blind people. However, no solutions for elderly blind people. This leads them to face limited effective solutions, hence Elderly Vibrations.
+
+My Office Cellphone
+Send and receive Emails with your phone completely offline using a simple phone Call or SMS
+
+looking at page 3 of 55
+Native and Scanned PDF Segregation
+This snippet identifies whether pdf is native or scanned and moves the file in the respective folder
+
+Jarvis
+Your personal fashion assistant
+
+Human 2 Human
+A personal assistant to help immigrants grow their network, prepare work documents, and connect with communities while moving to a new country.
+
+PLASMO-D
+To develop or build an android application that works with image recognition using Azure Computer vision to classify cells infected with malaria in the lab to bypass the process of manual counting.
+
+Kambling
+Play fair Casino games with your crypto tokens. Slots, Blackjack, Roulette
+
+Touch Wizards
+Compete with your friends in this intense and addictive Wizard Duel game !
+
+MuseFind Redesign Webpage
+MuseFind Redesign
+
+Unofficial Google Analytics
+Wondering how your website is doing? Just ask Alexa for the page views !
+
+Memora Health
+Memora Health is a platform for automated clinical follow-up and care coaching.
+
+Warp Post
+Warp Post is a Twitch Panel that allows viewers to easily alert a streamer when a package is on the way to them.
+
+Proper Park
+Never struggle with parking
+
+Life and Interaction Through Technology (LITT)
+Get Connected, Get LITT
+
+Lo-Kate
+Android based object and voice recognition AI allowing the visually impaired to safely navigate foreign environments
+
+Bear: The Classroom Bot
+The next step into the future of smart classroom
+
+Dogfight Elite VR
+Multiplayer airplane combat simulator
+
+sober.AI
+sober.AI is an artificial intelligence web-app for giving easy, quick & accurate sobriety tests with computer vision
+
+Interactive 360
+Viewers Interact With Streamers Using Special Effects Over Interactive Overlays and Panels
+
+Plantify
+Smart gardens at their best
+
+NetDoc+
+HTML Prototype for a proposed SMS enabled chat-bot and page that caters to queries related to HIV and sexual health.
+
+Hyper
+A Platform Where Sellers Find Buyers
+
+Marauder mApp V2
+A community-based & crowdmapping application that provides a virtual companion to enhance street safety.
+
+Holla!
+Human have short term memory, so we always disappoint by forgetting to text. Holla! takes care of that!
+
+Slapstick
+Watch the best, not the rest.
+
+Math on the go
+Love using Facebook Messenger? You will love doing your calculations without leaving your lovely Facebook Messenger!
+
+looking at page 4 of 55
+060 - iTrash
+encouraging recycling with smart image-recognising dustbins
+
+PlainDoc
+Providing access to the technical field of medicine with an AI that streamlines the health literacy process.
+
+Lumos
+Real time monitoring for Diesel Gensets
+
+abc
+abc
+
+YourHealthy.City
+A Healthy City is a Smart City
+
+GrocMan - An IoT based grocery management system
+IoT based app to enhance human productivity by automating manual steps needed in household grocery management.
+
+emoCam
+The face is more honest than the mouth can ever be. emoCam literally provides you with the best insights on how your customers or employees feel about your business.
+
+Vector Calc Sandbox
+An immersive VR math education and visualization tool for multivariate calculus.
+
+David
+Improving alertness , efficiency and safety , your travel companion in Detroit
+
+SMART WELL MONITORING SYSTEM for Villages
+let wells be smart now
+
+Exploratory Testing for JIRA
+Simplify exploratory session planning, documentation, and reporting within Atlassian JIRA.
+
+Ride Mexico
+Tap in the power of collective community intelligence to determine which transport routes are better.
+
+IoT Fridge Saver
+Reduce the consumption of refrigerators by just circulating the air in the rear.
+
+stratejos
+A smart bot for managing software teams
+
+Cityscope
+There is no better expert than you...
+
+Hootchat
+Mobile social media integrated app with push notification and real time interaction with the user' contacts.
+
+PowAgri
+Your Dream Farming is Now in Your Power Hand
+
+Maxi lander
+A 3D learning and interior decoration VR (Virtual Reality) app
+
+Dekh K Bhiyo
+Channel for Indore residents who want to volunteer & streamline road traffic by reporting rule violation, alerts etc.
+
+TrumpScript
+Make Python great again
+
+Snapse
+Simple, versatile and real time health analytics
+
+CodeCorrect
+Code that fixes itself
+
+park.AI
+Real time parking lot availability monitoring powered by computer vision and full parking feature suite
+
+DeepAffects
+EI Analytics for Human Resources and Project Management
+
+looking at page 5 of 55
+ExcelPost
+An excel add in to invoke rest API calls from excel itself
+
+Updated Issues Basket
+Never miss an issue update on your JIRA Cloud again
+
+U@Work
+Manage Emails & Teams through your email window
+
+My Ride - Short and Safe Trips!
+Car Sharing with persons of your same university or company!
+
+HeartCare
+A real-time heart rate monitoring system
+
+Ripples
+Ripples is a system that encourages water conservation by combining device control policy and social reinforcement.
+
+Explore Montreal
+A website to help tourists visit Montreal and its beautiful landmarks
+
+HootSuite Extractor
+Create HTML reports from your HootSuite search streams
+
+UiPrime SAP Activities Package
+SAP script actions into UiPath activities through DLL interface provided by SAP.
+
+AI Powered Hot Car Death Prevention
+This setup includes an AI based IOT edge device that can detect and notify people when an infant is left in a hot car.
+
+UPTEAMIST
+A simple intranet platform for small and medium businesses
+
+Blood Alcohol Meter
+Blood Alcohol Meter uses a simplified Widmark formula to calculate the Blood Alcohol content promoting safe driving.
+
+Obnoxious Scheme to Convince All to Recycle (OSCAR)
+Our trash can revolutionizes waste disposal by verbally assaulting ignorant fools who DARE dispose of their waste in the incorrect bin.
+
+REST2DDP
+Publish a live updating DDP API for any existing REST API with no coding required
+
+TheFriendZone
+Tackling stereotypes in a fun way! Plus, we keep things platonic~
+
+ModSense
+The LEGO power strip. We built it smart, modular and connected.
+
+The Night Cafe - An immersive tribute to Vincent van Gogh
+What did the world look like through Van Gogh's eyes? Enter into his painting to find out.
+
+Wastewater reuse with Blockchain & ML Models
+Our smart contract incentivises reuse with WRCs for quantity AND quality. ML algos are used to detect meter fraud.
+
+Dawn
+Discover a new horizon for research.
+
+HoaxSpot
+Chrome extension that identifies fake news
+
+Study+
+A productive, portable, pragmatic educational platform to interconnect students currently studying for their GCSE's.
+
+Unsafe Area Mapping
+We want to help make a world where the power of open data platform results in actions to help individuals feel safe.
+
+Min-Mins
+Assemble a team of min-mins to battle enemies and create an unstoppable army!
+
+Red Brick
+An app dedicated to facilitate instant donation of blood from the donors to patients through the hospital system.
+
+looking at page 6 of 55
+Montreal Coin
+Montreal's own cryptocurrency
+
+Kanoah CRM
+Kanoah CRM organizes and streamlines your sales process right inside JIRA
+
+Recycle.io
+The smart way of managing contaminants in a recycle bin
+
+ThriftFly
+Because you deserve to fly more and fly cheaper
+
+VAIS - Visualized Agriculture Information System
+A dynamic and responsive web app to extrapolate, crowd source, cross-reference, and visualize agricultural data sets
+
+Wheels
+The social network where members offers and demands routes to share their car, taxi services or bicycle plans.
+
+Creating SNOW ticket
+Creating Incident / Request in Service Now using Uipath
+
+Book Le - Book De
+An interactive app which allows user to lend and borrow books.
+
+TeamDocs
+Let your colleagues contribute by inputs and reviews so the document will be completed fast without missing anything.
+
+Glare
+In emergency don't blink , start glaring
+
+BUSSI
+The van sharing platform for commute. We create crowdsourced routes, to build reliable on-demand transportation.
+
+BANANA viva Yilan
+provide better driving experience by an android app
+
+SafeEats.AI
+Validate what you eat simply by pointing your camera to the list of ingredients; curated for your allergies or diet
+
+Igloo Car
+Taxi rides are convenient but costly. We want to give access to affordable taxi rides anywhere, anytime, to anyone.
+
+Intelligent Recruitment Process
+Leverage the power of Appian, Automation Anywhere and AI to automate the Recruitment process which enables companies to automate the process of manually sourcing qualified candidates
+
+ByteCard
+Connect with anyone in an instant
+
+Technical Interviewer
+Simplifying the recruiting process by automating the screening levels using Alexa VUI.
+
+Plant Floor Visibility
+Operational Excellence through Improved Visibility
+
+borne
+An apparel-based social enterprise, funding effective solutions to mosquito borne diseases the world over
+
+Travel Agent Connector
+A messenger chat bot to collect travel preferences over chat and send them to travel agents for customized packages.
+
+Image Editor
+transform, move, crop, resize, text, brush, watermark,
+
+Fuji
+Fuji is a fully-functional iOS web IDE that includes a fully-functional simulator.
+
+Kickback
+Effortless, fire-and-forget Amazon refunds when prices change
+
+iBite
+Share your recipes instantly!
+
+looking at page 7 of 55
+Access Granted
+Access Granted demystifies interview questions and provides a platform to practice and gain fluency responding.
+
+EDDI - ElectroDialysis Desalinator for Irrigation
+Removing the salt effects of drought catastrophes. One ion at a time.
+
+Suretify
+IFTTT-like triggers for healthcare information and discharge followup
+
+Molecula for Outlook
+Group communications in Outlook made easier
+
+APP+Website台灣雪隧疏流
+We build a real time and potential software to help both residents and official to reduce and control car flow.
+
+SafeWatch
+Automatic video-feed shooter detection
+
+CCSBusTracker
+Ask Alexa if your school bus is on time !!
+
+Mood Buddy
+With Mood Buddy, you can listen to calming music from nature, exercise, write journals, and track your mood.
+
+Spell Script
+Challenge your spelling and handwriting skills
+
+breveo
+A machine learned video summarization algorithm and app
+
+Valencia Lunch UX
+Electronic Application Transformation for the National School Lunch Program
+
+FeelsChat
+Twitch chat sentiment analysis for streamers
+
+Voedsel
+Voedsel is online street food delivery idea with a tag line - Experience your food at your time, at your place, of your taste
+
+SyForms - UiPath Forms Designer
+RPA is not only about the Robot but also the User
+
+Terra
+Terra is a mobile application for exciting walks. Explore the map, dissipate the fog and discover new interesting places for yourself. Travel in a new way!
+
+Team Secrets
+Team Secrets protects sensitive information in JIRA with end-to-end encryption and viewer verification
+
+SMILEY
+Bust the Stress!
+
+Mystery of Malfaxus
+A Hands Free Mobile VR Fantasy Adventure where exploration and interaction unlock the secrets of an exciting world.
+
+Gab
+Help new arivals feel welcomed by residences by asking direct every day questions. Let's close the gap, start to gab.
+
+DelveClassifier
+Quickly add Delve tags to your documents you are currently working with. Never leave the flow!
+
+TeamFlowApp
+Get key information from your team - continuous information flow with only 20 seconds of playful administration
+
+Chat Translator
+Open up your stream to a global audience and break down language barriers with real-time translated chat for viewers!
+
+Penyusuar by  Penyu Ranger
+in order to save sea ecosystem, we cant miss a single part of it. #saveTurtle
+
+CARE
+Calculated Agriculture Support & Recomendation Engine.
+
+looking at page 8 of 55
+Yoogle
+The web application that can search text on the content of video files and direct you to the portion of the video
+
+codeForCleanWater
+we tried to make it tamper proof
+
+BX - The Scarlet Record
+Embark on an emotional adventure through the wastelands as Aoi, an android in a future post-apocalyptic world
+
+Savvy Insights
+Steer your Virtual Workforce with Savvy Insights
+
+PicTalk
+A Chrome extension that speaks the visual features of an image for blind and visually impaired web users.
+
+Sticky Mail
+the relation between your notes and your emails is always complicated, using stickymail your note and mail become one
+
+NeoS: The Universe
+Experience the world we live in from tiniest elementary particles to the vast galaxy superclusters.
+
+The Bouncinators
+If you're not on the list, you're not coming in...
+
+Boolah
+Unassuming tinder for places,intelligent travel itinerary generator, flight fare search simplifier and culture tourism boosting local language translation support
+
+Pray It Forward
+Spreading happiness through prayer & community
+
+GazePay
+Moving forward to a cashless and cardless society, using face recognition for point of sale transactions
+
+Dataless
+Access the internet, without needing the internet.
+
+Social Strata [My Green Space]
+Social Strata, the best condominium app.
+
+nofoodwasted
+No Food Wasted is a platform to tackle food wastage and feed underprivileged.
+
+MTLMural
+A Hint of Urban Romance
+
+Criziz
+share a story...report an emergency!
+
+Pocket Med
+Automedication
+
+Intelligent Birdhouse
+The idea is to use the design of a birdhouse, that inside, install the Arduino 101 & SeeedStudio Grove Shield.
+
+Shiplly
+Optimizing shipping supplies by effective communication between the stakeholders
+
+040 - Cloudpaper
+A webapp for collaborative document viewing designed for students to study together effectively.
+
+Planning Poker for Trello
+A Power-Up you wanted so long and hard
+
+Unagi
+HackNC 2016
+
+Project Almuerzo
+Simple, friendly, and responsive form to apply for free and reduced price meals.
+
+#331 - Pong2.0
+It's like Pong but better
+
+looking at page 9 of 55
+MIRЯOR
+Witness your future success.
+
+Domates
+An app makes donation and recycling of goods easier.
+
+ShooterMax
+The user have to hit the plates with the balls.
+
+Growing Gardens Together | Team 11
+Swipe right to share or receive produce in your area!
+
+Curamobi
+Delivering timely , efficient care and treatment to Parkinson's disorder patients
+
+Trellogram
+Power-up Telegram
+
+EQ-WiOpen
+Windows made easy!
+
+UrbanFlow
+Facilitating the donation and delivery of menstrual cups to Vancouver shelters
+
+beClosing
+Businesses need help managing potential clients. The app manages the communication, allowing business to beClosing.
+
+Bazaar
+Fly on a magic carpet through the mystical land of Bazaar, collecting exotic curios to aid your exploration.
+
+Sharemail
+Sharemail
+
+Sahara
+An app for the cook of every household to conveniently keep track of RSVP and plan the recipe for the next meal.
+
+HandyML: Machine learning for non-datascientists
+Non-datascientists users can now train machine learning models by simply asking their robot to do it for them
+
+Pneuma - Pedobarographic Mapping for Neuropathy
+Just breathe... your feet will be in your control again.
+
+Distributed Estimation
+Convenient estimation method for teams across different time zones
+
+Unmute
+Opportunity for mute people to use mobile phones most important feature - calling.
+
+Hermes Managed Tire Services - an ioT enabled business
+Mileage pricing for Truck Tires supported by ioT. Cents per mile, not $per tire. Increase Fleet productivity.
+
+Lily Pad
+Help Willie & Dee save their town! Guide them through the river & collect magical fruit.
+
+Trip Planner
+The only skill which allows you to plan trips locally and discover the local delights in a city whenever, wherever.
+
+081 - Hi-Pi: Your Home Lifeguard
+Your home security assistant for both elderly and young children when you're at work
+
+I Laugh You
+I Laugh You - feel Happy, spread Happiness
+
+KnowUs
+Email Analytics on Steroids: Beyond numbers and into personality traits and mood
+
+Fetch
+We automate your research
+
+DocAssist
+Export UiPath project to a technical document
+
+looking at page 10 of 55
+Creativite
+Wear your attitude
+
+Polytunes
+A online musical collaborative experience built with meteor
+
+Lazzo
+Catch the Size
+
+Lecture Buddy
+Frictionless realtime audience feedback
+
+docuflow
+Read people's minds as they read your documents
+
+PezCaleta
+Maneja tu mar (Well Manage your sea)
+
+First Days
+A Siri app like which is a guide, spoken in the person's language and is able to translate and scan docs..
+
+Fireflies
+We connect people that want food delivered with others already at nearby restaurants using the Alohar Mobile SDK
+
+Voice Job Search
+Search for your dream job ... by asking Alexa
+
+Smart Drainage Blockage Detecting System
+Clean India Healthy India
+
+ChatOps for Heroku
+Take DevOps to the next level with ChatOps for Heroku and manage your applications in chat
+
+Sing Me A Dress
+LED dress that turns you into the Disney Princess you are singing!
+
+File Viewer for Bitbucket Cloud
+Easily view your 2D and 3D models, geographic data structures, PDF and CSV files directly on Bitbucket pages
+
+Omegabase
+Omegabase provides a social platform where students can practice questions and learn from each other.
+
+Innovation
+Allows teams to clearly and concisely start, configure and track innovation initiatives in your organisation.
+
+Guardian Angel AI
+Artificial intelligence webapp and API to enable monitoring of the elderly with automatic alerts in case of emergency
+
+monopoly-მენეჯერი
+სამაგიდო ბიზნეს-თამაში
+
+Tweetimental
+Using twitter data to understand mental illness and its cause to empower the Government to help individuals.
+
+Mexico City Taxi
+An app that lets Mexico City Users to easily Call on a Taxi, Carpool.&  check Fuel Needed by Leveraging OpenXc Data
+
+Mx-City Carpology
+Metrobus Seat Booking,Chating, Reports, Making Friends, Public and Private Carpooling has been easier than ever....
+
+Project Save California
+A smart innovative idea on encouraging people to practice kitchen gardening to save water
+
+DRIFT
+DRIFT is the first bullet simulator for VR.
+
+Every 5 minutes
+An app that leverages Hsuehshan Tunnel and OpenXc Datasets to provide realtime traffic information every 5 minutes
+
+Elite Safety
+A model based crash predictor
+
+looking at page 11 of 55
+Presenter for Confluence
+Present any Confluence page effortlessly and directly in your Browser
+
+Natural Network App
+For curly haired girls to communicate and share tips/routines for hair care, to embrace their natural hair
+
+Meteor Icon (icon.meteor.com)
+A simple icon for Meteor packages. Done in 58 lines of JS.
+
+AppLetic
+AppLetic is a fitness-based social media webapp that allows users to post their individual progress and socialize.
+
+What's Up Gov?
+An app that places the politics of the moment in the palm of your hand
+
+Imagine: VR Painting
+Imagine allows users to paint in a whole new medium: virtual reality. Users can paint unconstrained with 81 colors.
+
+Logibot
+Intelligent chatbot logistic provider that allows you to manage packages to be delivered for your customer
+
+Scan My Cart
+Une application web qui offre une expérience d'épicerie augmentée!
+
+Touch
+A social networking app that allows users to keep in touch with randomly selected friends
+
+Brand Analysis for product Search
+branding done with popularity index
+
+AVGS (Active Vision Guiding System)
+Drive with active light guide for best speed and safe distance in tunnel
+
+NaviHome
+An app provides alternative route recommendations and speed recommendation in the tunnel.
+
+HomeScan
+Intelligent Home Monitor Chat Bot
+
+Cosmos Browser
+Browse the internet... without data.
+
+PeriodPeace
+Connects women with shelters that have tampons/pads and connects donors with organizations in need.
+
+Outlook task manager
+Use Outlook as the place to manage all your SharePoint and Planner tasks
+
+RAMEAR
+We can get data out of your computer wirelessly - even if you don't want us to!
+
+Node Local Relationship Indexes
+Solution to the supernode problem with indexes on supernodes
+
+iWisps
+Fast, Scalable and Portable Local Business Recommender Microservice powered by Apache Spark
+
+Whispir Andriod App
+Wishpir App is standalone application to demonstrate the API's. To test their connectivity without any support.
+
+MiFi
+MiFi relieves you from the pain of manually entering Wifi Password
+
+TravAlarm
+A free app that keeps you on track with travel alerts.
+
+ALM Task for Bamboo
+Run HP ALM / Quality Center Test Sets from Bamboo and Integrate results with JIRA
+
+wake
+The alarm that actually gets you up
+
+looking at page 12 of 55
+Neo4j Jmeter load testing
+When working with Neo4, sometimes you need to create custom procedures to handle advanced use cases. This project aims at making it easier to do load testing on them with JMeter.
+
+MLHorrors
+ANOTHER Werewolf app... but different!
+
+MemoryEye
+Help those with Alzheimer's remember their loved ones.
+
+Agro Companion
+App that allows USA Farmers to visualized their idea crops and also allows information exchange via a social network
+
+Convergely
+Convergely is a set of everyday tools for teams that make decisions using a communication tool like Hipchat.
+
+SentryAI
+Feel safe with SentryAI on the watch.
+
+PedSafety
+Every pedestrian's companion
+
+Feux Verts
+La ville connectée au service  des pompiers : par le contrôle des lumières
+
+OHAI .
+An end to end solution for assisting and improving the lives of homeless individuals.
+
+Snippet for RDP process
+The RDP login process is automated
+
+Locate My Restaurant
+Demographic dimension applied to Yelp Business data
+
+Hack My Ride Milpitas
+Real Time Data from Milpitas area with Beacons and Route
+
+HN - frenly
+Building a friendlier web community with sentiment analysis.
+
+JasiRide
+Providing you with easy and cost effective ride to your destination. Request ride or Join other riders to pay less.
+
+j-085-cleanify
+Manage trashcans on the map to help the people to find nearby trashcans, report filled ones and get rewarded.
+
+FisHarmony
+It's not Tinder for Fish.
+
+Hootsuite for JIRA Service Desk
+Open Tickets in JIRA Service Desk for Twitter and Facebook messages directly from Hootsuite
+
+ZOI
+An AI-powered health assistant that provides recommendations in a more intuitive way than ever before.
+
+ship
+A dating app where you can "ship" others, making you the matchmaker. What are you waiting for? Let's set sail!
+
+Fing'R Mote
+The power of handwriting to control your devices
+
+Task Tracker
+Everything we do is driven by time. Get more out of your time with Task Tracker
+
+Purrpurino
+The new way of embracing emotions
+
+Hackathon Simulator
+Like GTA, but multiplayer, located in Cambridge Corn Exchange.
+
+Traffic Congestion with  Smarter Signal Lights
+Dynamically re-distribute the duration of green-lights at intersections in order to reduce total wait time.
+
+looking at page 13 of 55
+Save A Life
+Save a Life is an application that teaches you CPR in a modern way, and empowers you to help save someone’s life!
+
+Captain Clark Adventures
+Captain Clark Adventures is a Point & Click game where you play a captain who tries to escape from a pirates' island.
+
+Selfiesh
+App recognizes the fish from image, informs the non-expert fisher about legality of catching the fish, records data.
+
+Sincerely
+Machine learning based Signature Verification
+
+094 - Dabao
+Earn some money whenever you're buying your food
+
+meteor-run
+Run game with meteor for Meteor 2015 Global distributed Hackathon
+
+UnStoppable
+UnStoppable Makes JIRA Accessible for the Visually Impaired.
+
+Water Wizard
+The resources for the present are the debt for the future
+
+ColorMe
+Being stylish is easy! Use ColorMe to find clothes that suit you the best.
+
+Preventing Distracted Driving with IoT
+A complex multi-faceted solution that will reduce the number of accidents and deaths due to distracted driving.
+
+Make Me Kanye
+No longer imagine what you'd look like as Kanye - be Kanye today!
+
+Self-Driving Car Simulation (New kids)
+By using artifical Neural Networks, we coded from scratch a self driving car and an environment to test it in!
+
+Wing Beatz
+Creating a more advanced and specialised Mosquito trap using sound frequencies as attractors, and a self-sustainable power source.
+
+Guardian
+The number of firefighter injuries has increased by over 28% in the past 30 years. Our team sought to tackle this issue by creating a novel helmet utilizing IOT to improve firefighter safety.
+
+ReleaseIQ
+We turn product release planning into a party for the whole user community.
+
+GPS Aware Road Profiling Using Gyroscope
+Be aware while driving, the ups and downs on your roads can cause some serious problems.
+
+Motivator
+A Motivator that somehow creates quite the opposite result.
+
+Nagios Jira Integration
+Push Nagios Incidents in Jira & Resolve them Faster
+
+alexa mapquest
+email generator
+
+DocuSign for Confluence
+Create, send, and track e-signature documents in Confluence for your fastest, easiest approvals
+
+Project Dumpster 1.01
+Picking up litter...gamified. Integration of game mechanics to encourage large scale trash collection.
+
+Butler for Trello
+Automate Trello in plain English.
+
+Thunkfluence
+Speedy search for Confluence as a browser extension
+
+Twile
+Turn your family tree into a rich, visual timeline of your family history to share and explore with your whole family
+
+looking at page 14 of 55
+PROFTY
+A chrome extension that targets cyberbullying
+
+Get Excel Data from Citrix
+Getting Excel Data from Citrix environment into datatable.
+
+Analytic guided operations assistance
+Ops on the go!
+
+Unbottlr
+A React webapp used to track water usage, and encourage saving water through helpful tips and a competitive leaderboard.
+
+Finding
+Finding is a immersive action-adventure game in a fantacy world.VR Finding, we are finding!
+
+Tactera
+A Real-Time Strategy game on a holographic tabletop battlefield.
+
+ma taxi
+"MA TAXI" : est une application qui va vous aider à trouver et à réserver un taxi facilement
+
+eBuddy by SalmaTech
+Improving the hospital experience for parents and children
+
+PaliPalette
+Vector Graphics based Drawing app for Faster and Easier Drawing!
+
+Kwagric
+Farming at hand
+
+Travel Ride Bid Bot - TRBB
+Bot to bid travel rides from any corner of the city
+
+PhoenixJourney
+A simple endless runner representing a big metaphor and wrapped up in a beautiful environment.
+
+CrowdFarming
+Growing plants using Facebook messenger bot and community knowledge.
+
+Swordfish Essential
+We believe in SME! Join the collections movement.
+
+Voice-over
+Improving accessibility by helping people see what they cannot hear.
+
+Let'sCook
+Learn, Cook, Share!
+
+Athena
+Athena is an app for smartphone and smartwatch. Our main goal is safety, women safety!
+
+Taxi Driver
+our application will give the citizen his location so the taxi driver will get it in the app and go to take him
+
+TaxiGO
+TaxiGO  is an application inspired from the practices of the Moroccan drivers
+
+patentability
+Patentability is a hybrid app for innovators to review their ideas on the go.
+
+My Perfect Weather
+A web service for discovery of destinations matching your expected weather conditions (and hints on how to get there)
+
+DogLog - Track your dog's activities
+Say goodbye to confusion over your dog's wellbeing.
+
+P-Bot (Pregnancy Chat Bot)
+A chat bot that can answer questions related to pregnancy
+
+Team Lunchbox - School Lunch Mobile-Responsive Web App
+An approachable, friendly, school lunch application that reduces stress and increases comprehension.
+
+looking at page 15 of 55
+Addicaid
+Adaptive AI meets Behavioral Economics to prevent, treat, and predict addiction disorders.
+
+Snap Spin Tap
+Modified Camera for Visual Thinking & Creative Organization
+
+Modified Dijkstra algorithm for optimal navigation
+Modified algorithm to assign most optimal path for better navigation
+
+ProxiChats
+An online chat app that aggrerates users based on their proximity.
+
+Ecopet
+Like a common virtual pet games, your pets need to be fed to grow up. You can buy food by Ethereum. However, you can still withdraw your money whenever you need.So, let your pet save your money !
+
+Silence
+Experience the thrill of escaping life from death
+
+Wayfarer
+Not your Parent's Travel Recommendation System
+
+Androids Dream
+Androids dream is an overview of a cyberpunk city from a flying car.
+
+PhoneAR
+Have you ever wanted to buy a phone from your bed? Our app helps give you a real feel for it and decide what you want
+
+Air Guitar 2 Sound Converter
+Ever played air guitar and no sound came out? We got you covered. Uses phone/webcam, supports 4 instruments.
+
+IMVU PhotoReal
+Take your avatar into the real world - pose, select Instagram filter and take pictures to post to feed!
+
+If-Found-Lost
+No need to write your contact information on the things that can be lost or misplaced again.
+
+TECHNOLUST: THOUGHT CRIMES
+You are Big Brother's eyes and ears. Prevent the crime before it's committed... or pay the consequences.
+
+OnTransit
+Crowdsourced real-time transit information.
+
+GoforCar
+An eCar & bus only carpool lane in Hsuehshan tunnel
+
+PJ - CommitCoin
+A platform for rewarding open source contributors through the blockchain.
+
+Hey Purple
+Smart voice assistant for women safety
+
+WatchTower - One board for multiple JIRAs
+Consolidate issues from remote Cloud and Server JIRAs into one agile board.
+
+River Game
+Quiz based on questions on rivers in US
+
+Scrum Poker for JIRA
+A JIRA Integrated Mobile Application for Interactive Agile Estimation and Planning
+
+Build Meister
+Trigger & get the status of your builds with your voice, without having to log into a computer!
+
+My.SnapGlass.es
+Share your SnapGlass.es snapshots to help promote better eyesight through eyeglasses!
+
+OrchestrAI
+An improvisational AI that unleashes the creative power of an entire orchestra to music producers and artists
+
+Raw Manga Translator (3A)
+Sick of waiting for manga with translated text to come out?Well, you've come to a right place!
+
+looking at page 16 of 55
+The Meteor Train
+A toy train, controlled by a Raspberry Pi, running Meteor for the UI.
+
+SSH over SMS
+A way to run a bash shell through text messages
+
+TeXscribe
+With TeXscribe, writing math in LaTeX is as easy as writing it by hand.
+
+AlexaPlays
+A procedurally-generated role-playing adventure game controlled with the voice.
+
+Google reCAPTCHA 'Breaker' - Powered by Clarifai
+Breaking Google's reCAPTCHA using Clarifai
+
+water reuse system using AI
+save water save life
+
+AI-909
+Intelligent drum machine that generates new beats, powered by the HTM
+
+SoundScribe
+Taking notes has never been easier!
+
+Meteor Wars
+Turn Based Strategy Game built in 24 hours
+
+Aquareness
+Aquareness is a new way to increase water awareness and monitor water consumption.
+
+Crowd sourced corpus generation
+A trust able crowd-sourced corpus generator
+
+Millennial Money Madness
+Making millennials smart, savvy, and safe with their finances!
+
+Slope Ninja
+Find snow reports, chain control and road conditions for ski areas in Tahoe.
+
+LunchLine
+Giving students the discounts they deserve.
+
+Outpour – Go Find the Beauty in People, and Tell Them
+Outpour lets you easily and meaningfully express appreciation for the special people in your life :)
+
+Limbr Reports for JIRA Cloud
+Slice and dice your data with powerful custom reports, directly within JIRA - no spreadsheets required
+
+Project LunchBox
+Lunchbox — easy, intuitive, and adaptable. How the next generation of kids will apply to the school meal program.
+
+Projet web
+Projet web
+
+Tandem Medical
+Tandem is a software startup that will revolutionize hospital communications, with an initial focus on the ER.
+
+Recycleme
+We want you to be part in the waste recovery process
+
+conf.io
+conf.io is a platform for the developers community that helps organizers to pick best talks in a CFP
+
+iot_correlations
+Finding curious correlations between IoT sensors and different open data
+
+Ayo Banyuwangi
+Geographic Information System for Tourist in Banyuwangi based on Website Application
+
+VirtualScrumMaster
+Virtual Scrum Master is your project companion to make sure that your work is well managed and well organized.
+
+looking at page 17 of 55
+Faceboxx
+Hacking Facebook to Provide Free Unlimited Cloud Storage
+
+BrainBud
+Every year, millions of people suffer from undiagnosed concussions. BrainBud offers a quick and easy head injury detection test using computer vision and NLP.
+
+AxiomZen - Mastermind by KrevTeam (Challenges 1 and 2)
+Have fun with the multiplayer functionality!
+
+Mission Mars 2
+An action packed game with giant space penguins! This exhilarating game will get your blood boiling!
+
+YearBook
+Take photos every day and share them on a calendar with your groups
+
+Alexa JARVIS
+A modular voice controlled helmet attachment.
+
+PurchaseMate
+Save time. Save money. Save the world.
+
+TourUs
+We crowdsource tourguides!
+
+Spoofify
+Congratulations, you played yourself!
+
+Record
+Featuring Knurld
+
+HootChat
+Project developed for the Vanhackton 2016
+
+Overboard
+An overview of the things you want to keep track of.
+
+Popular Online Indigenous Crafts
+making the indigenous culture popular and helping the charities and NGO that will enhance there language popularity.
+
+PyEmbeo
+graph embeddings for neo4j in python.
+
+faceband
+Play the band with your friends using facial instruments
+
+Pick at School
+Reduce traffic, saves time and contaminates less. Quick hand-over of kids to their parents at the end of school day
+
+TraceIT
+A seafood traceability solution from the sea to your plate
+
+NurseNet
+A mapping algorithm utilizing machine learning to optimize nurse home visits through clusters of similar patients.
+
+SpiceworksHelpDeskSurvey
+quick survey for better Response
+
+Customer reports for JIRA Service Desk.
+Easy custom reports for JIRA Service Desk customers.
+
+Scorched Battalion
+Tiny tanks decimate the landscape of a wargaming table in a turn-based artillery game from the founder of Sven Co-op.
+
+მტრედი
+პირველი ქართული საკომუნიკაციო აპლიკაცია.
+
+AJ - The Chosen One - Multi-Agent Reinforcement Learning
+"The Chosen One" trained with Multi-Agent Reinforcement Learning and Generative Progressive Autocurricula
+
+May Contain Seeds
+Gumball vending machines distributed inside the Callaghan campus that will encourage user participation to dispense small-seed-ball bombs made up of mosquito repellant plant seeds and natural compost
+
+looking at page 18 of 55
+food4students
+Website that helps families apply for free/discounted school lunch program
+
+099 - SuperSianGoWhere
+Bored? No idea where to go? We got you covered
+
+the S.T.A.T.U.S. Train Network
+A Maglev System Devoted to Energy Recycling, S.T.A.T.U.S. offers a practical and ecological solution to daily travel.
+
+SmartLyfe
+A Data-Driven HealthTech Recommender System for Smart Cities. Stay fit, healthy and safe with SmartLyfe.
+
+LifeLong Playlist
+A personal music playlist that will last forever.
+
+Context.IO for Drupal & Maildispenser.com
+Build email apps in record time without coding
+
+iGofer
+iGofer is an Uber for local services, so it can be seen as a refined thumbstack and an open marketplace for services
+
+Transeaze
+theft prevention
+
+asdfghjkl
+Keyboard as Trackpad. It's exactly what you'd expect. asdfghjkl.
+
+sizeOf
+Precision real world measurements using just a mobile phone camera
+
+Peepa
+360 live streaming VR app
+
+XLTools Suite for Excel
+Indispensable Excel apps you need daily – in a single tab.
+
+Automation for JIRA
+The simple way to automate your team!
+
+Smart FlashCards
+Flashcards that do the organizing for you and that will intelligently decide when next you need to review something
+
+AgriWave: Transforming the Agricultural and Data World
+Making waves in the agricultural industry one data set at a time
+
+V-Control
+V-Control allows the player to talk and issue commands to game caracters using natural language
+
+changemymind.io
+Enter a topic and get matched with random people for a debate. As the convo progresses more peoeple will be thrown in
+
+Empathy Match
+Empathy Match is a platform that helps you to find someone who understands you.
+
+neomap
+A Neo4j Desktop application to visualize nodes with geographic attributes on a map.
+
+DevScout
+A social network for developers.
+
+Karigar App and Kiosk(کاریگر)
+A helpful app for Handymen, society and government
+
+Nimbus
+Une flotte d'autobus intelligents à la demande.
+
+Muvall
+A melhor maneira de alcançar o seu destino.
+
+HackRice2016-Menuer-Swift
+With Menuer, you will never be lost in exotic restaurants (or other places) anymore.
+
+looking at page 19 of 55
+Found
+Machine Learning based People Finding
+
+DoubleCheck
+Double check, because reverting email is expensive
+
+Dragon Story !
+Great interactive story with pen characters coming to life !
+
+Snö By GingerPonyPatlettes
+Make New Employees Integration Easy
+
+M-059-Hajj_EVAC
+Android app using maps to help pilgrims finding safty places.
+
+QReceipt
+For Anonymous, Paperless Receipts
+
+Mother's Tongue
+Building The Bridge Between Languages @ Naijahacks2018 Hackathon Team UnifyConcept  #TeamUnifyconcept #NaijaHacks2018
+
+Ultradrone
+Taking Drone Related Services To New Heights!
+
+regulator dashboard
+Implementing WRC through blockchain and smart contracts and preventing tampering of data with the use of ML and AI
+
+Path
+Better jobs for changing world: an app that guides you to a job in your new home
+
+Taxicabs Mobility Challenge
+Taking a cab in Morocco just got faster, cheaper, and safer
+
+CubeBot
+Size and Speed Optimized Rubik's Cube Solving Robot
+
+SPD - SharePoint Do
+Can your BLACKBOARD listen to you? Storing and Managing data should be as easy as writing on a blackboard.
+
+Internet of Thingies (IoThingies)
+Plug and Play your IoT project into a rich web UI in a flexible and easy way
+
+ThermaMatch
+Innovating how medical professionals track patient nerve and muscle injuries
+
+SteamCrew VR
+Collaborate to steer and maintain your steam submarine! Sink horrid monsters in an abyssal quest for magic Gems!
+
+CyberCow
+Helps you think before you type!
+
+Live Web Chat for Microsoft Teams
+Live customer support chat control for your web sites, that uses Microsoft Teams as the backend admin interface
+
+ShortStock
+ShortStock uses ML neural networks to filter and customise news releases about companies to varied investing styles
+
+Pallette
+A tongue-controlled wireless device empowering interaction with the world around you
+
+Skrillex
+Complete Platform for C-Level Discussions
+
+BiCity Social Cyclist Map & Alerts
+BiCity is a social cyclist map for get points of interest, add reminders and send alerts to other cyclist!
+
+Medinfi
+Pure-play healthcare content platform for taking right decisions
+
+FriendFugees
+Facilitating human connections in order to tackle social isolation and mental health problems
+
+looking at page 20 of 55
+Graybot
+NaijaHacks
+
+Tampering Water
+A model based tampering detection
+
+Road Safety
+We want you to be safe!
+
+Helpies - volunteering platform
+Bridging online Facebook community with the offline possibility to volunteer
+
+planet.AR.y
+An immersive augmented reality experience paired with Alexa to engage and teach kids about our solar system!
+
+Planet Ally: Travel Agents of Change
+Informing and empowering LGBTIQ and allies about the travel choices they make.
+
+008 - Skinalytics
+Identifying skin diseases with deep learning
+
+Sustainable Badger
+Want to become a sustainable BADGER? Explore different ways on campus!
+
+ADWEAR
+Ads for the terminal
+
+UiPath PDF to Excel Extractor
+UiPath PDF to Excel Extractor
+
+farm
+Naija hackathon
+
+Positivity Pack
+A small pack of happiness to brighten anyone’s day
+
+Free Feet
+Improving mobility, one step at a time.
+
+MONA
+Capture the essence of fine-art masterpieces and apply to your own photos
+
+Brain Squared
+Classify your brainwave patterns with the HTM.
+
+Great Lakes Savior
+we use IOT technology to help Fisheries and Oceans Canada solve Asian carps spawning problems in the Great Lake
+
+027 - iTrack
+To finding our beloved devices back, cheers
+
+Mobility Map
+Realtime Social Integration for Transportation Enthusiasts
+
+Quizzes for Confluence
+Create quizzes, assessments and tests in Confluence and share them with anyone by email
+
+MRI Scan VR with AWS Sumerian
+Virtual reality application for treatment of claustrophobia
+
+ECOTECH
+An app to change the world
+
+LineOne
+We take the hassle out of conference calling.
+
+RoboCop
+Emergency Automated Silent Caller
+
+iFramed
+A simple and affordable iFrame macro for Confluence.
+
+looking at page 21 of 55
+Smartify
+App Store and IDE for SMS-based Applications. Immediately deployable on the MS Azure cloud. Snapchat, Uber and more!
+
+Magik Pill
+A series of unfortunate events. Soy milk edition.
+
+Office 365 Groups SPFx
+Groups component was created to connect Office Groups and SharePoint in order to get the best out of each program.
+
+best ethereum wallet ever
+a secure local Ethereum wallet with hardware wallet support in Brave
+
+The Land Below (Google Cardboard)
+A Fantasy Adventure Game for Mobile VR
+
+Interactions
+A real-time Interactive Ecosystem for HealthCare, Businesses & Educational System.
+
+Voice Assistant for Microsoft Identity Manager
+Voice Assistant for Microsoft Identity Manager that empowers IT Support staff to query MIM for IT Service requests
+
+LightSwipe
+Swipe with a thinner wallet, and peace of mind.
+
+Muerteor
+Muerteor is a Deadman's Switch. It sends a message for you if you don't check in for a certain period of time.
+
+TinCam
+A minty, cheap, discreet, cloud-connceted camera that aims to end police brutality and the dangers of walking alone.
+
+Integrated Symbiotics - Tadpole AMAS
+Automation and Monitoring System for Aquatic Agriculture (Aquaponics, Hydroponics, Aquaculture)
+
+Project Switcher for JIRA
+Fast and configurable way of navigating across all your JIRA projects
+
+EDI Connector
+Easily integrate EDI invoices into a RPA Accounts Payable (AP) process increasing process accuracy and scalability.
+
+:emoji: and @mention support on Devpost
+I just need :frog: to work!
+
+Elision - Dịch vụ sức khoẻ tâm lí
+We want to build an ecosystem for parents and psycho doctors. It is a place where parents can get advices from doctors about your child's problems
+
+DeFiZap
+Allocate your assets across multiple DeFi protocols in one transaction. Save time. Save gas.
+
+Comawake
+Solve the mystery of your own mind to wake up from the coma!
+
+Komdo
+A smart webpage for minimizing electricity costs and carbon footprint
+
+WearShare
+Share files from your smartwatch!
+
+Smart Crops
+Find the ideal crop based on irrigation cost and yield value by comparing and visualizing crop data and trends.
+
+Polo
+Polo is an asymmetrical game of cat and mouse developed for the GearVR.
+
+Polldentify
+An app that uses data modeling and machine learning to tell you where the pollution in a city comes from in 15 years
+
+Real Time Lead Detector for Water Supply
+Inspired by the Flint Michigan Water Crisis, a cheap and continuous Arduino lead detector that can be accessed online
+
+Course Land
+...library at your finger tips
+
+looking at page 22 of 55
+Humanoid
+This app automatically calls for help when some one had any accident
+
+Indore Traffic Friend
+Indore Traffic Friend Your Buddy Your Assistant
+
+Bad Flamingo
+Fool your computer, but not your friends! Generating adversarial "Quick, Draw" examples
+
+youme.world
+The future of experience planning. Earn money traveling and plan your trips with friends.
+
+Saviour
+A Real-time Geo-Tracking, PhoneCall and SMS Based Rescuing System for People in need of help
+
+Glucose Check
+A Real-time Glucose Level Management System for Diabetic Patients
+
+Ovulation & Menstral Cycle(A Multi-Billion Dollar App)
+Monitor and Record your Ovulation and Fertility Cycle in Real-Time.
+
+Blood Pressure Monitor
+Distance Traveling Guide
+
+Breast Cancer Drainage
+A Real-time Breast Cancer Drainage Management System for Cancer Patients & their CareGivers
+
+Smart Life Jacket
+Smart life jacket, A life saver in distress
+
+Name that Animal
+Can you identify the sounds of animals? Do you know animals from all over the world? Learn a range of animal sounds.
+
+Raydar
+Raydar increases visibility over the entire supply chain through network association mapping.
+
+Reader for Confluence
+Tired of reading long texts in your company Wiki? Just use the new reading mode for Confluence!
+
+ARK (Archery Record Keeper)
+An efficient, digital way to score Archery tournaments.
+
+Tweety Wallet
+We have developed an application that helps you decide what to do with your cryptocurrency using facial recognition.
+
+Happious
+Happious: a 21-day immersion in the science of happiness and productivity--with a little help from your friends!
+
+Fundação Cafu - Real Solidarity [ Axiom-Zen]
+Our first goal on this challenge was to redesign the landing page for the donation campaign from Cafu Foundation.
+
+Money Match
+Tinder of borrowing and lending money. Look at the person, information and lend. Both way communication available too
+
+Acc!dont
+Stop accidents before they happen with Acc!dont
+
+DashboardComponent
+AverageExecutionTime (hours) Chart
+
+TeXTFLIX
+Watch Netflix in your terminal in glorious, animated, 256-color ASCII!
+
+PointShop.Space - Point to shop and discover companies
+Snap real products to find out more about its parent company from CrunchBase or buy it!
+
+SympMD
+Your daily mobile health symptoms checker.
+
+Safety App
+This project sends a message entered by the user during initial setup of app and sends the same when phone is shaken in danger.
+
+looking at page 23 of 55
+Mobievent
+A universal indoor positioning platform that can be curated and customized to enhance your experience at school.
+
+ReMap
+ReMap is a dynamic, interactive map with the ability to distribute and express real-time subway information
+
+BaymaxBuddies
+Pairable teddy bears that let you hug someone from anywhere in the world.
+
+Hospital Adventure
+Reinvent a child's and parents' hospital experience by making the whole process transparent and fun!
+
+FLYDOC
+No fuss document share - Easiest way to send/receive documents on the go - So simple even a kid can use
+
+Liveview
+A standalone Youtube player which allows you to see comments depending on what time you are at in the video.
+
+School Lunch UX
+Providing a web application with a better user experience for the audience; that's easy and effective!
+
+ac-unsubscribr
+An easy and quick way to unsubscribe from annoying newsletters.
+
+"Teach me Tables" - an Alexa Skill
+"Teach me Tables" helps kids learn and memorize math tables in a new, interactive, visually appealing and fun way.
+
+mARk
+Leave your mark on the world.
+
+Emocean
+Recognize your emotions
+
+BY - Data Transmission using Whatsapp
+Out with biased Internet, in with Web in Whatsapp Web
+
+Follow the White Rabbit a VR Mystery
+A VR Mystery Adventure™ Where Magic is Real and Nothing is as it Appears.
+
+Comala Approvals for Confluence Cloud
+Reviews and Approvals for your Confluence Cloud documents
+
+Intelligent Medicine Dispensary System
+Remind the patient to take medicine
+
+DreamForce
+Future of Workforce Model Powered by BlockChain
+
+Witness
+Panic Button for the Smartphone Age
+
+Meggie
+A smart assistant for current / potential McGill student who lost all hopes!
+
+Plugin generator from Atlassian Connect to JIRA Server
+plugin, add-on, generator, jira server, jira cloud, atlassian connect
+
+nusSync
+Use nusmods to find breaks with friends instantly!
+
+get[f]it
+Studies show the social aspect of exercise compels us to do more than we would otherwise. Make your workout happen!
+
+Project Oliver
+gravitytank reinvented the F&RL form to bring confidence, guidance, and reassurance to families completing it.
+
+Stop calling me pls
+Get an annoying call? Transfer them to Stewie.
+
+Airport Assist
+A messenger chat bot to assist the traveller in the airport
+
+looking at page 24 of 55
+ProBot
+A robot that takes online quizzes and learns the answers over time. It utilizes the java robot class on the front end to interact with the quiz website and and an Amazon RDS server on the backend.
+
+Paper Piano
+Music for everyone.
+
+FireNode - Wardriving as a Service
+A real time localization platform that provides high resolution population density maps of network infrastructures
+
+Kind
+Want to be happy? Be kind.
+
+EmergencyChain
+Decentralized first responder network and secure emergency medical data delivery system
+
+Ronald McDonald Mobile Care Unit Mobile App
+A better mobile experience for finding when and where a Ronald McDonald Mobile Care unit will be near you.
+
+Axiom Zen - AxiomMind - Challenge 1, 2, and 3.
+MasterMind implementation of Challenges One, Two and Three for Axiom Zen.
+
+AskMeteor
+Crowdsourcing answers to questions one. piece. at. a. time.
+
+TripGo in Mexico City
+Planning your ride through the city is a whole lot easier with TripGo!
+
+NECO
+Survivor finding system for people/animals.
+
+No internet, but find me!
+My idea is for searching survivors who can't connect to the internet during a disaster.
+
+ECG + HTM
+ECG Anomaly Detection System using HTM
+
+Athelas
+Blood imaging and analysis from your smartphone. Automated, cheap disease diagnostics + cell-counts within seconds.
+
+Flight Monitoring System
+A tool for automatic information extraction from different sources and showing its influence on all flights
+
+Relations for JIRA
+Introducing companies and contacts to JIRA
+
+Cash Pay Today for Access Corrections
+Send money to inmates to buy snacks, mp3's, make phone calls and more...
+
+EdgePay
+No Bank? That is why we are here!
+
+iFitFarm
+Making mordern farming easy, fun and affordable for everyone
+
+Rally
+Rally: Easy events, none of the hassle.
+
+Project Air
+VR Air Traffic Control Simulator
+
+Aux
+Let everyone have a chance on the Aux cord.
+
+CS - Smart Water Bottle + App
+Ever been tired, thirsty and found it hard to pee? Here is a solution that is easy. The Smart Water Bottle.
+
+Airena
+A game where you write & edit AI code on the fly to fight in the arena!
+
+Distance Calculator
+A Distance Travels Guide
+
+looking at page 25 of 55
+Test Management for JIRA Cloud
+Bringing Adaptavist Test Management to JIRA Cloud
+
+Procedural Music Generator
+Autonomously generates music based on user-data, statistics, music theory and randomness.
+
+Lexus
+Chatbot that will make your life at home easy
+
+ContactNow for Jira Service Desk (Beta)
+Make and receive calls without leaving a ticket with a seamless contact center integration for Jira Service Desk.
+
+Profiler
+Gas cost profiling for Solidity Smart Contracts
+
+OpenDoor
+Breaking cultural barriers preventing women from learning English through social cooking demos and image technology.
+
+Android for All
+Run Android on your iPhone, instantly.
+
+Work Safety Management (WSM)
+...safety monitoring just got efficient
+
+Chitthi
+A personal RA for your freshman year in college who has solution to all your problems.
+
+AirBnBro
+The bro that will help you find your next AirBnB!
+
+Smart Fridge
+A Smart Fridge that uses Computer Vision to log in food, keeps user updated by SMS, and provide recommendations.
+
+Closed Captions Extension for Twitch Streams
+Accessibility for viewers, closed captions for viewers with difficulty or impossibility of hearing.
+
+WannaDrink
+Look for people to drink with near you
+
+Altcoin Fantasy
+Fantasy sports meets crypto trading! Learn about crypto risk-free by competing in fun fantasy crypto trading competitions. Challenge others to trading duels using KIN and win their KIN tokens.
+
+Neural Style in TensorFlow
+Render photos in the style of any artist! An implementation of "A Neural Algorithm of Artistic Style" in TensorFlow.
+
+DDAI
+Interest delegating DAI with smart DeFi Recipes
+
+PETMON
+A Smart Dog Collar that tracks your pet's location, health and activities
+
+Amplify
+A sound system in your pocket
+
+slackit
+slackin in meteor (A little server that enables public access to a Slack server)
+
+SNS Payments
+Swipelessly tap and pay at any credit card terminal - no NFC required! #flux #electromagnets #shouldhavetakenphysics
+
+Hackathon Table Numbers
+Assign and distribute hackathon table numbers for your expo
+
+Tana Pura
+A kinetic light sculpture
+
+Castle VRuin
+Photogrammetry based VR Sightseeing Experience.
+
+Crashland Reborn
+You have Crash-landed on a hostile alien planet. Can you survive until rescue arrives?
+
+looking at page 26 of 55
+Pipe Crawler
+Robot that follows pipes in search of leaks.
+
+Smarter Bike Light
+A reverse engineering bike light that can be controlled with a microcontroller
+
+AWS Cost Manager
+Manage AWS costs by tracking CloudWatch metrics in Jira Cloud
+
+Tobii Ghost - Eye Tracking Twitch Extension
+An extension that allow viewers to see where the streamer is looking at the screen.
+
+PocketDoc
+Pocketdoc is a mobile app which uses machine learning to advise cures to people with common recognizable symptoms
+
+Butlr
+Butlr helps simply manage day to day tasks.
+
+Kitty Crates
+Booster Packs for ERC721 tokens: buy, sell, and trade sets of non-fungible tokens
+
+Messenger LaTeX
+Chrome extension to render LaTeX in Facebook Messenger with a live preview using the MathJax Javascript library.
+
+Biometric 2-Factor Security - "BioAuth" (MongoDB)
+String passwords suck. Biometrics are safer and faster. Dead simple Authentication.
+
+Eva- Optimizing Evaporation Prevention Strategies
+Eva is an autonomous floating IoT hydrometeorology lab, she maps evaporation rates of rivers and canals worldwide.
+
+PocDoc
+It puts healthcare in your hands.
+
+Stream Closed Captioner
+Easily increase the accessibility of your stream by adding Closed Captioning for your viewers
+
+The Homework Machine
+
+
+Word to Markdown
+Convert Word documents to Markdown format on the fly
+
+BizDev Meeting
+A cooperative team-building game that promotes synergy between parties of 2 to 10 players in the same room.
+
+SMS Racing
+A game about the thrill of texting and driving.
+
+Taz
+Your notification storm is over
+
+A11_D-SIGN
+D-SiGN is a Weareable ASL to speech.
+
+VR Coaster
+Experience a stunning Mobile VR roller coaster ride!
+
+sudo
+A content summariser , video searching and phone broadcast tool along with cross platform chat and video calling.
+
+CoTaxiApp
+CoTaxiApp enable people in Rabat and Casablanca who are traveling in the same direction to share a taxi easily
+
+037a - Order Management System
+Prepares restaurants for the new era by replacing waiters with a intelligent service to manage everything
+
+The @UPenn Xperience
+Explore the Campus and Beyond!
+
+Splash
+Messaging protocol over a bluetooth mesh network.
+
+looking at page 27 of 55
+PhaseShift
+A mind-bending cinematic platformer with dimension-altering puzzle mechanics and innovative VR gameplay
+
+VIRTUAL HANDS: VirtPaint
+VIRTUAL HANDS: VirtPaint will give you the opportunity to draw without hands. You only need head movements.
+
+DeskShare
+Share and upvote screenshots of yours and others' desktop environments
+
+rezyourtown
+Changing the way you reserve sports fields and community rooms in your city
+
+DV - Ideate with the Brail
+Why can't the visually disabled have fun too?
+
+Propagate
+procedural, persistant, interactive shared state virtual coral reef, in your browser
+
+GramConnect
+Making internet available to people with no internet connection.
+
+Real Estate
+A conversational search for real estate listings in your area
+
+Angels of Khan
+Proofreading by voice - Expanding the circle of users contributing to Khan Academy content validation
+
+XCalibur
+the microSD in the stone.
+
+Cotraveler
+Catch the cheapest flight fare with instant alerts in messenger
+
+Ant Text to Outlook
+A new way of writing emails and a productivity tool to save time when sending identical emails and files.
+
+Image Annotator for JIRA
+Annotate image attachments and screenshots directly in your JIRA issue.
+
+autocolorization
+We colorized Jean-Luc Godard's Breathless (1960) using deep learning
+
+Evade - Android/iOS Game
+Test your endurance in this new fast paced infinite runner - an addictively satisfying game
+
+Agile Estimate for JIRA
+Visualize, speed up and improve your sprint estimates
+
+Complaint Board - Incident Management
+Using the power of the Appian platform, enables the management of any type of complaint or service request made by employees in an organization.
+
+Chat Heroes
+Chat Heroes brings chat to life with animated characters as well as helps increase streamer support using bits.
+
+Trackin
+Get paid to play your favorite games
+
+NeWsquito
+NeWsquito: cultural accommodation and re-branding of the University of Newcastle Callaghan campus mosquito population.
+
+InCELL VR
+education, expirience, game, bilogy, cell, nival, inmind
+
+Fork On The Road
+Try "Alexa, ask Fork On The Road" and the fork will help you make a decision.  Alexa Skill that uses dynamic 3D.
+
+Auxilium
+Registered Micro-financing for Low Income Populations
+
+Harvest
+Understand every acre in minutes using aerial infrared photography.
+
+looking at page 28 of 55
+Likemind
+Connect with like minded people nearby
+
+Daydream Blue
+A game about you, a pet robot, and a campsite by the lake.
+
+BulldozAIR - FLIR
+Collaborative mobile app for construction professionals, home inspectors, maintenance companies, real estate owners
+
+HosAppointmentSys
+Hospital Appointment System
+
+097 - Wellness
+A wellness suite that assesses patients with anxiety disorders and transmits data to therapists
+
+Suju - suju.online
+On demand self-driving buses using multi-parameter route optimizing aimed to help event and public transportation.
+
+De Mobo Classroom
+one click solution to present, record, transcribe and share presentations and lessons.
+
+Ice Breaker
+Your face is your visit card!
+
+XL Clipboard
+XL Clipboard is the easiest way to share your event spreadsheets (i.e. guest lists, members, etc).
+
+Zero Click Bitcoin Micropayments
+Easiest way to send and receive micro payments on the web
+
+Wendy
+A comfortable VR adventure where you have fun exploring and interacting with a magical setting
+
+Colosse: A Story in Virtual Reality
+Colosse: A story of colossal proportions: adventures in immersive and innovative Virtual Storytelling
+
+GHost
+Revolutionising the game industry by introducing a cross-platform multiplayer experience.
+
+Zing
+Save time in style
+
+Type Diagram
+Diagraming in seconds in MS office
+
+UniConcierge
+Private Wealth, real-time, in your pocket
+
+Fortum Green Journey
+A mobile 'green' assistant to help customer develop awareness and confidence on energy consumption using gamification
+
+Benefitsy
+A simple way to learn about the health benefits of fruits, vegetables, and herbs.
+
+Gradebook
+Gradebook is a scalable, cross-platform information learning system analytics platform for high school students.
+
+SCTS - Supply Chain Tracking System
+Supply Chain Tracking System in the Ethereum Blockchain
+
+Relay
+All your accounts, just a touch away.
+
+HomeBase_WeatherAlert
+Daily alerts on your hardware
+
+ElderVision
+ElderVision is a system that will alert your family if your elder falls.
+
+ReMUMber
+Do you forget to text your Mum while you're travelling? Automatically send texts based on your location!
+
+looking at page 29 of 55
+ethberlin-hackfury
+The Hackfury DAO is Decentralized Audit Organization for worldwide audits management build with DAOStack.
+
+Safe Travels
+Safe Travels equips you with the best tools to analyze crime in Philadelphia
+
+MedReality
+Providing an immersive self-learning experience of human and animal anatomy using VR
+
+PreGear
+Presentation Assistant for Gear2 and GearS
+
+WeLearn
+WeLearn it's a VR  E-Learning platform  that gives you an immersive learning experience on the 360° view you can have the Teatcher and the Presentation on 1 view
+
+Fyber Exchange
+Decentralised marketplace for buying, selling and lending goods powered by Kyber and Compound
+
+LearningLock
+Android lockscreen equipped with neural network which learns your tendencies to protect your phone from intruders.
+
+PureWater 16
+"Water from air to fight California's drought"
+
+Enviro
+Report environmental issues , hold events and chat with fellow users in your vicinity
+
+DonIT
+Empowering Welfare
+
+LitMit
+LED pressure-sensing gloves enhance the fan experience and improve the atmosphere,making everyone able to Lit the Day
+
+MIDIOCRE
+Unique computer generated music, free for everyone.
+
+024 - JoinLah
+Host or Join local activities around you in real time, and discover new activities!
+
+co|wear
+Co|wear is collaborative fashion - a win-win for everyone from customers to the companies involved.
+
+Dylan Home Automation
+Dylan is an home automation system operated with voice command from your mobile phone to control your entire house.
+
+EXIT
+We enable users to take the right exit in their Subway/MRT/MTR/TUBE stations to get to their destinations faster
+
+Instant Websites for Confluence
+Collaborate on Confluence then publish to super fast Amazon AWS for public access and pretty URLs
+
+HTM for Adelaide Arterial Traffic Flow
+Using HTM algorithms from NuPIC to perform automated incident detection Adelaide arterial traffic flows
+
+Visage
+Your face as a password!
+
+Tiger Event
+A one step solution for events management.
+
+Entrilo
+Website for organizing cheap business trips.
+
+VacciDENT
+Your family wants you to be safe, so do we!
+
+Wae FindAR
+Using revolutionary AR technology and with the help of Knuckles, never get lost again!
+
+Office Floor Plan Navigator
+Find and Display Office 365 profiles on an interactive floor plan map.
+
+looking at page 30 of 55
+nQuery: Q/A for JIRA
+Ask any question about your JIRA issues. Quickest way to generate reports,gantt charts,graphs.
+
+Picast
+A photo sharing website that uses whenhub to organize albums. A platform to preserve and share your photos and albums
+
+Dot Menu for Confluence
+Access administrative pages in Confluence from anywhere by typing '.' and the action name
+
+Wayflow
+All of your answers in one place
+
+Email2SharePoint
+Enhance productivity with iGlobe E2S – e-mail2SharePoint Add-In for Outlook
+
+Zut
+One heck of a shot
+
+AI Sensei
+Language learning using artificial intelligence
+
+commUnity
+An android app facilitating projects for the community, by the community.
+
+Excel_Summary_Snapshot_in_mail
+Time is money, robots will not add to your work
+
+Unofficial Devpost API
+The unofficial part means I probably won't fix it when it breaks.
+
+WhatsBot
+The first AI personal assistant for your whatsapp
+
+KidsChallengeHackathon - Historia
+Amazon Alexa Skills challenge: Kids
+
+Wheel O Hackathons
+Spin the wheel to find great online hackathons!
+
+Summer Jam landing page
+an excellent landing page for an excellent series of hackathons
+
+BackPack
+SAVE MORE ENJOY MORE
+
+Pulsar Arena
+Pulsar Arena is a rhythm based tournament in space.
+
+WiSign
+WiSign is an ios app designed for people to learn fingerspelling in American Sign Language. We want to provide people with chances for communicating and understanding Deaf community with its culture.
+
+melon
+Can't pick the ripest watermelon without splitting it open? Fear not! "melon" uses a neural network to predict the quality of watermelons through data collected by sound sensor and impulse deliverer.
+
+compass
+Explore the world through your friends in Augmented Reality and let your social be your guide
+
+Trashy but Smart
+Automated trash and recycling separator
+
+HereNow
+Send out text notifications when you arrive at your destination.
+
+Meteor Pulse
+Meteor Pulse - Heart Rate Tracker
+
+SMSiri
+Making "dumb phones" smarter through natural language question answering.
+
+FluxDuck
+Where to work? FluxDuck analyzes company reputations in the news media to help find an employer worth working for.
+
+looking at page 31 of 55
+Cobalt Haze
+CobaltHaze Anti-gravityFightingVehicle, combat VR game
+
+Printing Your Name Like A Pro!
+Cognitive based Android app that teaches children (K-7), with low-incidence diagnoses, how to print their name
+
+QuickTry
+A chrome plugin for editing and running stack overflow code snippets in the browser
+
+SmartCab
+An all-in-one app for Moroccan taxis.
+
+Devpost Notification Center
+It's about time Devpost gets its own little red number
+
+smartNebula
+Une application qui calcule l'empreinte de carbone de votre véhicule.
+
+Star Song
+A collaborative music editing tool inspired by "Garage Band" and build with MeteorJS
+
+CloviMed
+CloviMed boosts diabetic patients' self-efficacy in managing diabetes, preventing complications and containing costs.
+
+ATAD
+Air traffic anomaly detector
+
+EX - Stappie Bird
+A Play Therapy for ADHD Kids to control their body and mind concentration: FlappyBird Edition
+
+Cafecito
+When learning programming languages, language should not be a barrier.
+
+Sobr
+A keyless solution to prevent drunk driving
+
+Easy Retail Pay
+Making transactions tranquil
+
+AI Barney
+Artificial Intelligence that helps people to get know each other with adaptive tips during conversation
+
+Workflows Searcher for JIRA
+Identify at a glance were add-ons are adding workflow conditions, validators and post functions
+
+PROS - Process Reconfiguration Optimization Simulator
+PROS is a 3D virtural WiP reconfiguration and optimization simulator integrated with Efficiency Analyzer information.
+
+SprachBox
+Skill to access the voice mail system of Deutsche Telekom (Germany landline).
+
+Kinetica
+Kinetica is an IoT device that creates a cost effective channel of communication for motor neurone disease patients.
+
+Found in Translation
+Automate dubbing of Khan Academy videos
+
+Hold my drink
+Why pour your own drinks when you can have a robot do it for you?
+
+GitBattle
+Close GitHub issues and win prizes
+
+F-016-Hajjy Geo-Location Augmented Reality Application
+U'll Never Get Lost.
+
+Better at git
+Git knows better – @midu
+
+Peasy
+Payment in a blink
+
+looking at page 32 of 55
+DiveLane - Apple Pay for Ethereum
+Transaction signer: the secure place to store the private key that can sign transactions from any dApps (phone & web)
+
+Mentorik
+Everybody needs access to a mentor, but normally is difficult to find one. Until now... Mentorik will match & connect people to be able to learn and teach based on the knowledge they are interested on
+
+VOICE
+Voice Operated Interactive Command Emulator: An easy-to-use voice command system
+
+Taxis Maroc
+You need a cab !! find it instantly
+
+We All Deserve Resources (W.A.D.R.)
+W.A.D.R. was developed to provide disadvantaged communities consistent access to essential resources.
+
+CrapMaps
+A solution to all your public relief needs. Find nearby bathrooms and view ratings and reviews!
+
+Chart.neo
+Create custom exportable charts right inside neo4j Desktop
+
+Liberdata
+Disrupting the personal data market by making your data earn money for you.
+
+Hackathon Submission Flow
+A better way to submit your hackathon projects on Devpost
+
+Signbot
+The robot that translates your voice to physical sign language.
+
+hackarduino
+Simple home automation project which allows control over physical hardware devices. Light and Powerful. For age: 15+
+
+Pixel Kanvas
+Pixel Kanvas empowers creativity, exploration and collaboration with a simple grid
+
+NYSEVisualizer
+A VR representation of the New York Stock Exchange.
+
+Black Mamba Rescue Beacon
+The simplest rescue beacon for the iPhone
+
+GameOpener
+Interactive Gaming
+
+SaveWatts
+SaveWatts Lets You Make Energy-Smart Decisions When Buying Appliances; Light on the Pocket,  Light on the Socket.
+
+ECONDITIONER
+We want to save water in California and built a smart air conditioning system that produces water.
+
+Stranded in the Expanse
+Stranded in the Expanse is a sci-fi game that encourages fitness. You earn energy credits in the game by exercising!
+
+I ♥ Devpost
+10 reasons why Devpost is awesome. Number 5 made me cry.
+
+visionOS
+An innovational publishing platform for interactive ads and apps
+
+026 - Table For 4
+An application to meet new people through a simple meal
+
+SDAAS - Self-Driving As A Service
+Bringing the power of self-driving cars to the cloud.
+
+nextub
+Nextub is the context-aware mobile application that helps you uncover local cafes, bars,pubs and rewards your loyalty
+
+Kenko
+Snap a photo of any food and receive health insights
+
+looking at page 33 of 55
+SpitBars
+Rap Battle Analysis Software
+
+Travel Buddy
+don't be a tourist, be local
+
+Capture The Pothole
+Search the city for potholes, collect them on your map!
+
+Neuralgia VR
+Co-op cyberpunk game, the Operator guides the Runner in the simulated mind of a host to get the data and get out.
+
+QuickSeek
+Easily find what you are looking for in YouTube videos.
+
+Ambrosia
+A web-based food market
+
+Speech Center
+Public speaking virtual trainer
+
+Viate
+VR simulation to help alleviate panic attacks
+
+UCyber Hotspot Sniper
+Locating a remote access point on the campus green
+
+BW - Optical Localisation Plus Robotics
+Cheap and Simple Indoor Localisation for Collaborative Robotics
+
+Rollout! Instant Trash Schedule Recycling Reminder App
+Never miss a trash day!
+
+Picturize - Auto Note Taker
+Cliffnotes for Anything
+
+Alexa-powered Beer Robot.
+Use Alexa to get a beer from the robot. The bartender sees the command from Alexa and loads the robot.
+
+CardLink
+Easily group and identify relationships to optimise your planning process.
+
+Formula Editor
+Integrate editor capabilities to Excel. Write your formulas in a fully-fledged code editor instead of a single line!
+
+SolarHero
+Solar community for heroes
+
+Numbers And Letters Game iOS
+The numbers and letters puzzles game
+
+Elements
+An Amazon Alexa skill to learn all about Elements, like mass and symbols. Extremely helpful for high school students.
+
+Draw Anything
+Using Fourier Series to automatically generate step-by-step drawing guides
+
+RunnerBeat
+Let's run together
+
+Node Clowning Around
+Helping monitor the growing clown epidemic by tracking sightings in GM vehicles
+
+Medifact
+Analyzing and Viewing Untoward Occurrences of Combined Drugs
+
+WoundCare
+WoundCare is an app that allows for patients to monitor whether or not they have an infectious wound in the comfort of their own home.
+
+faceStylr
+Polyvore meets Augmented Reality for styling your face. Make meaningful product connections with your customers!
+
+looking at page 34 of 55
