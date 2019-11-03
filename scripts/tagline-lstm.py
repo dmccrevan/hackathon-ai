@@ -1,8 +1,8 @@
 import pickle
 import nltk
-from nltk.tokenize import word_tokenize
+from nltk.tokenize import RegexpTokenizer
 
-# tokenizer = RegexpTokenizer(r'\w+')
+tokenizer = RegexpTokenizer(r'\w+')
 
 # import textblob
 
@@ -26,7 +26,7 @@ totals[BEGIN] = 0
 # count all the occurrences of certain transitions
 for tagline in taglines:
   # TODO: can keep track of most common original form of word - for example, John -> john
-  line = tokenizer.word_tokenize(tagline.replace(',', ' , '))
+  line = tokenizer.tokenize(tagline)
   line = [word.lower() for word in line]
   if len(line) < 1:
     continue
@@ -53,4 +53,4 @@ for key in transitions:
 
 # print(model)
 
-pickle.dump(model, open('tagline-markov-model.pickle', 'wb'))
+pickle.dump(model, open('tagline-lstm-model.pickle', 'wb'))
