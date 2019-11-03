@@ -10,7 +10,6 @@ __pycache__/
 .cpcache
 
 /out/
-/static/cljs/
 
 Makefile
 Dockerfile
