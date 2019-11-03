@@ -4,8 +4,6 @@ from scripts.generate import Generator
 
 mygen = Generator()
 
-suggestions = []
-
 app = Flask(__name__)
 
 PASTES_DIR='/tmp/hackathin-pastebin' # tempfile.mkdtemp()
@@ -16,8 +14,6 @@ except:
 
 @app.route('/')
 def index():
-	global suggestions
-	suggestions = []
 	return render_template('index.html')
 
 @app.route('/about')
@@ -26,10 +22,7 @@ def about():
 
 @app.route('/idea', methods=['GET', 'POST'])
 def idea():
-	global suggestions
-	tagline = mygen.generate_tagline()
-	suggestions.append(tagline)
-	return render_template('idea.html', tagline=tagline, suggestions=suggestions)
+	return render_template('idea.html', tagline=mygen.generate_tagline())
 
 @app.route('/extra')
 def extra():
