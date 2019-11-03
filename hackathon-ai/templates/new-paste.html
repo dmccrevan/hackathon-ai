@@ -2,8 +2,8 @@
 
 {% block content %}
 <form method="POST" action="/new-paste">
-    <input type="text" max="50" name="name" placeholder="Name" />
-    <textarea name="content" placeholder="Paste Content" cols="50" rows="10"></textarea>
+    <input type="text" max="50" name="name" placeholder="Name" required />
+    <textarea name="content" placeholder="Paste Content" cols="50" rows="10" required></textarea>
     <input type="submit" />
 </form>
 {% endblock %}

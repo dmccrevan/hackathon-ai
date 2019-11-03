@@ -46,7 +46,6 @@
         (set! (.-onclick (.querySelector cloned ".todo-toggle"))
             (fn [event]
                 (.preventDefault event)
-                ; (set! (.-disabled (.-target event)) (not (:done entry)))
                 (set-list
                     (assoc todolist
                         (.indexOf todolist entry)
@@ -55,6 +54,8 @@
         (.appendChild list-elm cloned)
     ))
 
+(set! (.-onclick (.querySelector js/document "#todo-clear"))
+    (fn [] (set-list (into [] (filter (fn [e] (not (:done e))) todolist)))))
 
-; setup the initial todo items on page load
-(set! (.-onload (.-body js/document)) (fn [] (doseq [entry todolist] (create-item entry))))
+; setup the initial todo items
+(doseq [entry todolist] (create-item entry))

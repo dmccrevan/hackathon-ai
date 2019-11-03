@@ -8,6 +8,3 @@ Thumbs.db
 __pycache__/
 *.pyc
 .cpcache
-
-/hackathon-ai/out/
-/hackathon-ai/static/cljs/

@@ -1,32 +1,32 @@
 {% block content %}
-<form action="{{ url_for('idea') }}" method="post">
-  <input class="idea" type="submit" value="Get an idea!">
+<form action="{{ url_for('idea') }}" method="GET">
+  <input type="submit" value="Get an idea!">
   <div class="radio">
-    	<input id="AnyRadio" type="radio" name="Topic" value="Any" checked/>
+    	<input id="AnyRadio" type="radio" name="topic" value="any" checked/>
     	<label for="AnyRadio">Anything</label>
   	</div>
   <div class="radio">
-  		<input id="EducationRadio" type="radio" name="Topic" value="Education"/>
+  		<input id="EducationRadio" type="radio" name="topic" value="education"/>
   		<label for="EducationRadio">Education</label>
   	</div>
   <div class="radio">
-  		<input id="AIRadio" type="radio" name="Topic" value="AI" />
+  		<input id="AIRadio" type="radio" name="topic" value="ai" />
   		<label for="AIRadio">Artificial Intelligence</label>
   	</div>
   <div class="radio">
-  		<input id="GamingRadio" type="radio" name="Topic" value="Gaming" />
+        <input id="GamingRadio" type="radio" name="topic" value="gaming" />
   		<label for="GamingRadio">Gaming</label>
   	</div>
   <div class="radio">
-  		<input id="WebRadio" type="radio" name="Topic" value="Web" />
+  		<input id="WebRadio" type="radio" name="topic" value="web" />
   		<label for="WebRadio">Web</label>
   	</div>
   <div class="radio">
-  		<input id="MobileRadio" type="radio" name="Topic" value="Mobile" />
+  		<input id="MobileRadio" type="radio" name="topic" value="mobile" />
   		<label for="MobileRadio">Mobile Apps</label>
   	</div>
   <div class="radio">
-  		<input id="FinanceRadio" type="radio" name="Topic" value="Finance" />
+  		<input id="FinanceRadio" type="radio" name="topic" value="finance" />
   		<label for="FinanceRadio">Finance</label>
   	</div>
 </form>

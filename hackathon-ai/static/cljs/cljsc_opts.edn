@@ -1,0 +1,1 @@
+{:optimizations :advanced, :output-dir "static/cljs", :main todo.core, :output-to "static/cljs/main.js", :aot-cache true}

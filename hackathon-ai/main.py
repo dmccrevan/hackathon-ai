@@ -1,6 +1,6 @@
 import os, random, string
 from flask import Flask, render_template, redirect, request
-from scripts.generate import Generator
+from src.generate import Generator
 import logging
 import logstash
 import sys
@@ -35,13 +35,10 @@ def about():
     logger.info('python-logstash: About page requested')
     return render_template('about.html')
 
-@app.route('/idea', methods=['GET', 'POST'])
+@app.route('/idea')
 def idea():
     logger.info('python-logstash: Index page requested')
-    typeTagLine = ''
-    if request.method == 'POST':
-        typeTagLine = request.form['Topic']
-    return render_template('idea.html', tagline=mygen.generate_tagline(), topic=typeTagLine)
+    return render_template('idea.html', tagline=mygen.generate_tagline(), topic=request.args.get("topic"))
 
 @app.route('/extra')
 def extra():

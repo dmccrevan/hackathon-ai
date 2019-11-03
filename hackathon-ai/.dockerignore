@@ -1,0 +1,16 @@
+.vscode
+.idea
+*.swp
+.DS_Store
+.directory
+Thumbs.db
+
+__pycache__/
+*.pyc
+.cpcache
+
+/out/
+/static/cljs/
+
+Makefile
+Dockerfile

@@ -14,6 +14,9 @@ cljs: static/cljs/main.js
 cljs-repl:
 	clj -m cljs.main --output-dir static/cljs -c todo.core -r
 
+docker: Dockerfile
+	docker build -t hackathon-ai .
+
 .PHONY: clean
 clean:
 	rm -rf __pycache__ **/__pycache__ **/*.pyc out/ static/cljs
