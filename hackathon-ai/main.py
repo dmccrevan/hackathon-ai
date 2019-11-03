@@ -58,7 +58,7 @@ def new_paste():
     	content = request.form['content']
     	with open(PASTES_DIR + '/' + name, 'w+') as f:
             f.write(content)
-            logger.Info('python-logstash: New paste created')
+            logger.info('python-logstash: New paste created')
     	return redirect('/paste/' + str(name))
     else:
     	return render_template('new-paste.html')
