@@ -16,3 +16,7 @@ Generates ideas for Hackathons using Machine Learning
 >>> mygen = generate.Generator()
 >>> mygen.generate_tagline()
 ```
+
+## Docker compose
+docker-compose build
+docker-compose up
