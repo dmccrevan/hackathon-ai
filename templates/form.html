@@ -1,0 +1,33 @@
+{% block content %}
+<form action="{{ url_for('idea') }}" method="post">
+  <input class="idea" type="submit" value="Get an idea!">
+  <div class="radio">
+    	<input id="AnyRadio" type="radio" name="Topic" value="Any" checked/>
+    	<label for="AnyRadio">Anything</label>
+  	</div>
+  <div class="radio">
+  		<input id="EducationRadio" type="radio" name="Topic" value="Education"/>
+  		<label for="EducationRadio">Education</label>
+  	</div>
+  <div class="radio">
+  		<input id="AIRadio" type="radio" name="Topic" value="AI" />
+  		<label for="AIRadio">Artificial Intelligence</label>
+  	</div>
+  <div class="radio">
+  		<input id="GamingRadio" type="radio" name="Topic" value="Gaming" />
+  		<label for="GamingRadio">Gaming</label>
+  	</div>
+  <div class="radio">
+  		<input id="WebRadio" type="radio" name="Topic" value="Web" />
+  		<label for="WebRadio">Web</label>
+  	</div>
+  <div class="radio">
+  		<input id="MobileRadio" type="radio" name="Topic" value="Mobile" />
+  		<label for="MobileRadio">Mobile Apps</label>
+  	</div>
+  <div class="radio">
+  		<input id="FinanceRadio" type="radio" name="Topic" value="Finance" />
+  		<label for="FinanceRadio">Finance</label>
+  	</div>
+</form>
+{% endblock %}

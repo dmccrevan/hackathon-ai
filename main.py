@@ -26,8 +26,8 @@ def about():
 
 @app.route('/idea', methods=['GET', 'POST'])
 def idea():
-	global typeTagLine
-	print(request.method)
+	typeTagLine = ''
+	print(request.form, request.method)
 	if request.method == 'POST':
 		typeTagLine = request.form['Topic']
 	print(typeTagLine)
