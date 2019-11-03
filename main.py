@@ -6,6 +6,8 @@ mygen = Generator()
 
 app = Flask(__name__)
 
+typeTagLine = ''
+
 PASTES_DIR='/tmp/hackathin-pastebin' # tempfile.mkdtemp()
 try:
     os.mkdir(PASTES_DIR)
@@ -14,6 +16,8 @@ except:
 
 @app.route('/')
 def index():
+	global typeTagLine
+	typeTagLine = ''
 	return render_template('index.html')
 
 @app.route('/about')
@@ -22,7 +26,12 @@ def about():
 
 @app.route('/idea', methods=['GET', 'POST'])
 def idea():
-	return render_template('idea.html', tagline=mygen.generate_tagline())
+	global typeTagLine
+	print(request.method)
+	if request.method == 'POST':
+		typeTagLine = request.form['Topic']
+	print(typeTagLine)
+	return render_template('idea.html', tagline=mygen.generate_tagline(), topic=typeTagLine)
 
 @app.route('/extra')
 def extra():
