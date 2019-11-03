@@ -5,5 +5,9 @@
 .directory
 Thumbs.db
 
-__pycache__
+__pycache__/
 *.pyc
+.cpcache
+
+/hackathon-ai/out/
+/hackathon-ai/static/cljs/
