@@ -40,7 +40,10 @@
     </a>
 </div>
 
-<pre>
-	{{ suggestions }}
-</pre>
+<h4>Projects:</h4>
+<ul>
+{% for row in suggestions %}
+	<l1> {{ row }} </l1>
+</ul>
+{% endfor %}
 {% endblock %}
