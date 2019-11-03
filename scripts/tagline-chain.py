@@ -26,7 +26,7 @@ totals[BEGIN] = 0
 # count all the occurrences of certain transitions
 for tagline in taglines:
   # TODO: can keep track of most common original form of word - for example, John -> john
-  line = tokenizer.word_tokenize(tagline.replace(',', ' , '))
+  line = word_tokenize(tagline.replace(',', ' , '))
   line = [word.lower() for word in line]
   if len(line) < 1:
     continue
