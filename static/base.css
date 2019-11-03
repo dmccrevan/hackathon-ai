@@ -14,9 +14,13 @@ header {
     background-color: #404040;
     box-shadow: 0.2rem 0.2rem 0.2rem black;
     padding: 1rem;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    align-items: center;
 }
 
-article, form {
+article{
     padding: 2rem;
     display: flex;
     flex-flow: column nowrap;
@@ -37,6 +41,71 @@ a.idea {
     padding: 1rem;
     font-size: 18pt;
     background-color: #505090;
+}
+
+input.idea {
+	padding: 10px;
+	font-size: 18pt;
+	background-color: #505090;
+}
+
+.radio {
+  position: relative;
+  display: inline-block;
+  margin: 0 20px 20px 0;
+}
+
+.radio input[type="radio"] {
+  display: inline-block;
+  vertical-align: middle;
+  opacity: 0;
+}
+
+.radio label {
+  vertical-align: middle;
+  cursor: pointer;
+}
+
+.radio input[type="radio"] + label:before {
+  content: '';
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  margin: -3px 5px 0 -15px;
+  vertical-align: middle;
+  font-size: 14px;
+  font-family: fontawesome;
+  line-height: 19px;
+  text-align: center;
+  border: 1px solid rgba(0,0,0,.5);
+  background: rgba(0,0,0,.25);
+}
+
+.radio input[type="radio"] + label:before {
+  border-radius: 50%;
+}
+
+.radio input[type="radio"]:hover + label:before {
+  content: '\f111';
+  font-size: 9px;
+  color: rgba(255,255,255,.4);
+}
+
+.radio input[type="radio"]:checked + label:before {
+  content: '\f111';
+  font-size: 9px;
+  color: rgba(255,255,255,.8);
+}
+
+input[type="submit"] {
+  text-align: center;
+  border: 1px solid rgba(0,0,0,.5);
+  display: block;
+  margin: auto;
+  margin-bottom: 1em;
+  padding: 1rem;
+  font-size: 18pt;
+  background-color: #505090;
 }
 
 #share-buttons img {
