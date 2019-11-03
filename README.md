@@ -18,5 +18,7 @@ Generates ideas for Hackathons using Machine Learning
 ```
 
 ## Docker compose
+```
 docker-compose build
 docker-compose up
+```
