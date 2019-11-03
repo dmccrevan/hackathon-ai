@@ -1,6 +1,6 @@
 import os, random, string
 from flask import Flask, render_template, redirect, request
-from scripts.generate import Generator
+from src.generate import Generator
 import logging
 import logstash
 import sys
