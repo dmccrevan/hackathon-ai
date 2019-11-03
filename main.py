@@ -29,11 +29,6 @@ def idea():
 	global suggestions
 	tagline = mygen.generate_tagline()
 	suggestions.append(tagline)
-	'''suggestions_txt = ''
-	for i in range(len(suggestions)):
-		suggestions_txt += "Project {}:\n\t".format(i+1)
-		for i in range(suggestions[0]):
-			suggestions_txt += suggestions[0][i]'''
 	return render_template('idea.html', tagline=tagline, suggestions=suggestions)
 
 @app.route('/extra')
