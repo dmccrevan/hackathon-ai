@@ -2,10 +2,10 @@
 
 {% block content %}
 <form method="POST" action="/shrtn">
-    <input type="url" name="link" placeholder="URL to shorten" />
+    <input type="url" name="link" placeholder="URL to shorten" required />
     <input type="submit" />
 </form>
 {% if code %}
-<code>hackai.xyz/shrtn/{{ code }}</code>
+<code>nextbigthing.tech/s/{{ code }}</code>
 {% endif %}
 {% endblock %}

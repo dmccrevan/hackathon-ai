@@ -17,7 +17,7 @@ logger.setLevel(logging.INFO)
 logger.addHandler(logstash.TCPLogstashHandler(host, 5000, version=1))
 typeTagLine = ''
 
-PASTES_DIR='/tmp/hackathin-pastebin' # tempfile.mkdtemp()
+PASTES_DIR='/tmp/hackathon-pastebin' # tempfile.mkdtemp()
 try:
     os.mkdir(PASTES_DIR)
 except:
@@ -74,9 +74,10 @@ def paste(name=None):
 
 shortlinks = {}
 @app.route('/shrtn', methods=['GET', 'POST'], defaults = { 'code': None })
+@app.route('/s/<code>')
 @app.route('/shrtn/<code>')
 def shrtn(code=None):
-    logger.Info('python-logstash: linkshorten page requested')
+    logger.info('python-logstash: linkshorten page requested')
     if request.method == 'POST':
         code = ''.join(random.choice(string.ascii_lowercase) for i in range(10))
         shortlinks[code] = request.form['link']

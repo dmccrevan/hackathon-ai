@@ -39,32 +39,19 @@ a {
 
 a.button, button, input[type="submit"] {
     padding: 1rem;
-    font-size: 18pt;
+    font-size: 16pt;
     background-color: #505090;
-}
-
-#share-buttons img {
-    width: 35px;
-    padding: 5px;
-    border: 0;
-    box-shadow: 0;
-    display: inline;
-}
-
-input, textarea {
-    background-color: #404040;
-    color: inherit;
     border: none;
-    font-size: inherit;
+    color: inherit;
 }
 
-#todo-list {
+form {
     display: flex;
     flex-flow: column nowrap;
+    justify-content: center;
     align-items: center;
 }
 
-/* For Radio Buttons */
 .radio {
     position: relative;
     display: inline-block;
@@ -112,3 +99,25 @@ input, textarea {
     font-size: 9px;
     color: rgba(255,255,255,.8);
 }
+
+#share-buttons img {
+    width: 35px;
+    padding: 5px;
+    border: 0;
+    box-shadow: 0;
+    display: inline;
+}
+
+input, textarea {
+    background-color: #404040;
+    color: inherit;
+    border: none;
+    font-size: inherit;
+}
+
+#todo-list {
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+}
+
