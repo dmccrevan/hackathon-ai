@@ -122,3 +122,9 @@ input, textarea {
     border: none;
     font-size: inherit;
 }
+
+#todo-list {
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+}

@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block content %}
+<form id="todo-form">
+    <input type="text" placeholder="New Todo Item" id="todo-inp" required />
+    <input type="submit" value="+" />
+</form>
+    
+<div id="todo-list">
+    <div class="todo-item" style="display: none">
+        <span class="todo-text"></span>
+        <button class="todo-toggle">X</button>
+    </div>
+</div>
+
+<script src="/static/cljs/main.js"></script>
+{% endblock %}

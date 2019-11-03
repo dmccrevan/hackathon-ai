@@ -89,3 +89,7 @@ def shrtn(code=None):
             return redirect(shortlinks[code])
         else:
             return render_template('shrtn.html', code=request.args.get('code'))
+
+@app.route('/todo')
+def todo():
+    return render_template('todo.html')
